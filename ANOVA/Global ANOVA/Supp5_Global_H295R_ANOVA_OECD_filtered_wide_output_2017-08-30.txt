@@ -1,0 +1,767 @@
+date_chnm_plate	OH-Pregnenolone	Progesterone	OH-Progesterone	DOC	Corticosterone	11-deoxycortisol	Cortisol	Androstenedione	Testosterone	Estrone	Estradiol	chnm	casn
+20150610_Phosmet_Plate8	0	1	1	0	0	0	0	0	0	1	1	Phosmet	732-11-6
+20140402_Triphenyl phosphite_Plate2	0	1	1	1	0	0	0	0	0	1	1	Triphenyl phosphite	101-02-0
+20150610_Catechol_Plate16	1	1	1	1	1	1	0	0	0	1	1	Catechol	120-80-9
+20140402_Indomethacin_Plate20	1	0	1	1	0	1	1	0	1	0	0	Indomethacin	53-86-1
+20140402_Terbutylazine_Plate18	1	1	1	1	1	1	1	0	1	1	1	Terbutylazine	5915-41-3
+20140326_Tridemorph_Plate18	1	1	1	1	0	1	0	1	0	1	1	Tridemorph	24602-86-6
+20140402_N-Phenyl-1,4-benzenediamine_Plate26	1	1	0	1	1	0	0	0	0	0	0	N-Phenyl-1,4-benzenediamine	101-54-2
+20140402_Methylparaben_Plate28	1	1	1	1	0	1	1	0	0	1	1	Methylparaben	99-76-3
+20140326_2-Methoxy-5-methylaniline_Plate16	1	1	1	1	1	0	1	0	0	0	0	2-Methoxy-5-methylaniline	120-71-8
+20140402_Ethoxyquin_Plate15	0	1	1	1	0	1	1	1	1	1	0	Ethoxyquin	91-53-2
+20150610_Butylparaben_Plate12	0	1	1	0	0	0	0	0	0	0	0	Butylparaben	94-26-8
+20140402_2-tert-Butylphenol_Plate16	0	0	0	0	0	0	0	0	0	0	0	2-tert-Butylphenol	88-18-6
+20140402_Hydroquinone_Plate5	1	1	1	1	1	1	1	0	1	1	1	Hydroquinone	123-31-9
+20140326_2,6-Dimethylaniline_Plate14	0	1	1	1	0	0	0	0	0	1	0	2,6-Dimethylaniline	87-62-7
+20140326_p-Cresol_Plate13	0	1	1	0	1	0	0	0	1	1	1	p-Cresol	106-44-5
+20140402_2,4,6-Trichlorophenol_Plate18	1	1	1	1	0	0	0	0	0	1	1	2,4,6-Trichlorophenol	88-06-2
+20150610_Isophorone_Plate13	0	0	0	0	0	0	0	0	0	0	0	Isophorone	78-59-1
+20140402_Ethylparaben_Plate25	1	1	1	1	1	1	0	0	0	1	1	Ethylparaben	120-47-8
+20140326_Nonanoic acid_Plate21	1	0	0	0	0	1	0	0	0	1	1	Nonanoic acid	112-05-0
+20140326_2,4-Dimethylphenol_Plate18	0	1	1	1	1	1	1	1	1	1	1	2,4-Dimethylphenol	105-67-9
+20140326_2,4-Dichlorophenol_Plate21	0	1	1	1	0	0	0	0	1	1	1	2,4-Dichlorophenol	120-83-2
+20140409_2-Naphthylamine_Plate2	1	1	1	1	1	1	1	1	1	1	1	2-Naphthylamine	91-59-8
+20140402_Benzidine_Plate29	1	1	1	1	1	1	1	1	1	1	1	Benzidine	92-87-5
+20140402_3,3'-Dimethoxybenzidine_Plate9	1	1	1	1	1	1	1	1	1	1	1	3,3'-Dimethoxybenzidine	119-90-4
+20140409_C.I. Solvent Yellow 14_Plate10	1	1	1	1	1	1	1	0	1	1	1	C.I. Solvent Yellow 14	842-07-9
+20140402_Clomiphene citrate (1:1)_Plate29	1	1	1	1	1	1	1	1	1	1	0	Clomiphene citrate (1:1)	50-41-9
+20140326_Triethoxyoctylsilane_Plate10	1	0	0	1	0	0	0	0	0	0	1	Triethoxyoctylsilane	2943-75-1
+20140409_1,5-Naphthalenediamine_Plate3	0	1	1	1	0	1	1	0	0	1	1	1,5-Naphthalenediamine	2243-62-1
+20140402_3,4-Dimethylphenol_Plate8	0	1	1	1	1	0	0	0	0	1	1	3,4-Dimethylphenol	95-65-8
+20140402_4,4'-Methylenebis(2-methylaniline)_Plate10	1	1	1	1	1	1	1	1	1	1	0	4,4'-Methylenebis(2-methylaniline)	838-88-0
+20140402_Sodium dimethyldithiocarbamate_Plate7	0	1	0	1	0	0	0	0	0	0	0	Sodium dimethyldithiocarbamate	128-04-1
+20140402_1,2-Phenylenediamine_Plate10	1	0	1	0	0	0	0	0	0	1	1	1,2-Phenylenediamine	95-54-5
+20150610_Indium arsenide_Plate13	0	0	0	0	0	0	0	0	0	0	0	Indium arsenide	1303-11-3
+20140409_Toluene-2,4-diisocyanate_Plate5	1	1	0	1	0	1	0	1	0	0	0	Toluene-2,4-diisocyanate	584-84-9
+20140326_Propylparaben_Plate17	1	1	1	1	1	1	1	1	0	0	0	Propylparaben	94-13-3
+20140402_Dimethyl adipate_Plate1	0	0	0	0	0	0	0	0	0	0	0	Dimethyl adipate	627-93-0
+20150610_Resorcinol_Plate10	0	1	1	1	1	0	1	0	0	0	0	Resorcinol	108-46-3
+20140326_4,4'-Methylenedianiline_Plate8	1	1	1	1	1	1	1	1	0	1	1	4,4'-Methylenedianiline	101-77-9
+20140402_2-Methoxy-5-nitroaniline_Plate32	0	1	1	1	1	1	1	1	1	1	1	2-Methoxy-5-nitroaniline	99-59-2
+20140326_2,6-Dinitrotoluene_Plate18	0	1	0	0	1	1	1	1	1	1	1	2,6-Dinitrotoluene	606-20-2
+20140326_EPN_Plate13	1	1	1	1	1	1	1	1	0	1	1	EPN	2104-64-5
+20140402_Dimethipin_Plate12	0	1	0	1	1	1	0	1	1	0	0	Dimethipin	55290-64-7
+20140402_Progesterone_Plate4	1	1	1	1	1	1	1	1	1	1	1	Progesterone	57-83-0
+20140402_Dodecyltrimethylammonium chloride_Plate4	1	0	1	0	0	1	0	1	0	1	1	Dodecyltrimethylammonium chloride	112-00-5
+20140402_3,7-Dimethyl-2,6-octadienal_Plate9	1	1	1	0	1	1	1	1	1	0	0	3,7-Dimethyl-2,6-octadienal	5392-40-5
+20140326_1-Octanol_Plate17	0	0	0	0	0	1	0	0	0	1	0	1-Octanol	111-87-5
+20140402_5-Heptyldihydro-2(3H)-furanone_Plate13	1	1	1	1	0	1	0	1	0	1	0	5-Heptyldihydro-2(3H)-furanone	104-67-6
+20140409_Prednisone_Plate6	1	0	0	1	1	0	1	0	0	0	0	Prednisone	53-03-2
+20140402_17alpha-Ethinylestradiol_Plate5	1	0	1	0	0	0	0	0	0	1	1	17alpha-Ethinylestradiol	57-63-6
+20140402_Eugenol_Plate23	0	0	0	0	1	0	1	0	0	1	1	Eugenol	97-53-0
+20140326_4-tert-Butylphenol_Plate11	0	1	1	1	1	0	1	0	0	1	1	4-tert-Butylphenol	98-54-4
+20140326_2-Aminoanthraquinone_Plate17	0	1	1	1	1	1	1	0	0	1	1	2-Aminoanthraquinone	117-79-3
+20140326_N,N-Dimethyloctylamine_Plate20	0	0	0	0	0	0	0	0	0	0	1	N,N-Dimethyloctylamine	7378-99-6
+20140326_Dihexyl phthalate_Plate19	0	0	1	0	1	1	1	1	1	1	1	Dihexyl phthalate	84-75-3
+20140402_Triclocarban_Plate13	1	1	1	1	1	1	1	1	1	1	0	Triclocarban	101-20-2
+20140409_3,3',5,5'-Tetrabromobisphenol A_Plate2	1	1	1	1	1	0	0	1	1	1	1	3,3',5,5'-Tetrabromobisphenol A	79-94-7
+20140402_2,4,7,9-Tetramethyl-5-decyne-4,7-diol_Plate22	1	0	1	0	1	1	1	0	0	0	0	2,4,7,9-Tetramethyl-5-decyne-4,7-diol	126-86-3
+20140402_2-Mercaptobenzothiazole_Plate27	1	0	1	0	0	1	1	1	1	0	0	2-Mercaptobenzothiazole	149-30-4
+20140409_Dapsone_Plate9	1	1	1	1	0	1	0	1	0	1	1	Dapsone	80-08-0
+20140326_1-Pentadecanol_Plate9	0	1	0	1	0	0	0	0	0	1	1	1-Pentadecanol	629-76-5
+20150610_Tris(2-chloroethyl) phosphate_Plate13	0	0	0	0	0	0	0	0	0	0	0	Tris(2-chloroethyl) phosphate	115-96-8
+20140402_Clotrimazole_Plate27	1	1	1	1	1	1	1	1	1	1	1	Clotrimazole	23593-75-1
+20140402_N-Methyldioctylamine_Plate2	1	1	1	1	0	1	0	1	1	0	1	N-Methyldioctylamine	4455-26-9
+20140326_Simvastatin_Plate13	1	1	1	1	1	1	1	1	1	0	1	Simvastatin	79902-63-9
+20150610_Hexaflumuron_Plate10	0	1	0	1	0	0	0	0	0	0	0	Hexaflumuron	86479-06-3
+20140402_Triamcinolone_Plate4	1	1	1	1	1	1	1	0	0	1	1	Triamcinolone	124-94-7
+20140326_PFOSA_Plate13	0	1	0	1	1	0	0	0	0	0	0	PFOSA	754-91-6
+20140326_Carminic acid_Plate16	1	0	0	0	0	0	0	0	0	1	1	Carminic acid	1260-17-9
+20140402_1-Tetradecanol_Plate7	0	0	0	0	0	0	0	0	0	0	0	1-Tetradecanol	112-72-1
+20140402_Tamoxifen_Plate30	1	1	1	1	1	1	1	1	0	1	1	Tamoxifen	10540-29-1
+20150610_Tamoxifen_Plate16	1	1	1	1	0	1	0	1	0	0	0	Tamoxifen	10540-29-1
+20140409_2,3-Diaminotoluene_Plate6	1	1	1	1	0	1	0	1	1	1	1	2,3-Diaminotoluene	2687-25-4
+20140402_Nicotine_Plate29	0	1	0	1	1	1	1	1	1	1	0	Nicotine	54-11-5
+20140402_Triphenyl phosphate_Plate25	1	1	1	1	0	1	0	1	1	1	1	Triphenyl phosphate	115-86-6
+20140402_2,4-Diaminotoluene_Plate29	0	1	0	0	0	0	0	0	0	0	0	2,4-Diaminotoluene	95-80-7
+20150610_Acrylamide_Plate11	0	0	0	0	0	1	0	0	1	0	1	Acrylamide	79-06-1
+20140402_HMR1426_Plate28	0	1	1	0	1	1	1	1	1	1	1	HMR1426	262376-75-0
+20140402_SR125047_Plate8	0	0	0	1	0	0	0	0	0	0	0	SR125047	NOCAS_47342
+20140409_SSR161421_Plate6	1	1	1	1	1	1	0	1	1	1	1	SSR161421	NOCAS_47374
+20140402_Trelanserin_Plate30	1	0	1	1	1	1	1	1	1	0	1	Trelanserin	189003-92-7
+20140402_MK-968_Plate27	1	1	1	0	1	1	1	1	1	0	1	MK-968	NOCAS_47334
+20150610_PharmaGSID47330_Plate9	0	1	1	0	1	0	0	1	0	0	0	PharmaGSID47330	NOCAS_47330
+20140402_Volinanserin_Plate10	1	1	1	1	1	1	1	1	1	1	1	Volinanserin	139290-65-6
+20140402_SAR115740_Plate19	1	1	1	1	1	1	1	1	1	1	0	SAR115740	NOCAS_47366
+20140409_SSR180711_Plate5	1	1	1	1	1	1	1	1	1	0	1	SSR180711	298198-52-4
+20140402_PharmaGSID47333_Plate2	0	1	1	1	1	1	1	1	1	0	0	PharmaGSID47333	NOCAS_47333
+20140402_SSR150106_Plate16	1	1	1	1	1	1	1	1	1	1	1	SSR150106	NOCAS_47362
+20140326_CP-456773_Plate16	0	1	1	1	1	1	1	1	1	1	1	CP-456773	210826-40-7
+20140402_CP-457920_Plate15	0	1	1	1	1	1	1	1	1	1	1	CP-457920	220860-50-4
+20150610_CJ-013790_Plate15	0	0	0	0	0	1	0	0	0	1	1	CJ-013790	179465-71-5
+20140402_CP-634384_Plate8	0	1	1	1	1	0	0	1	1	0	0	CP-634384	290352-28-2
+20140402_PharmaGSID47263_Plate7	1	1	1	1	0	1	1	1	1	1	1	PharmaGSID47263	349495-42-7
+20140402_CP-457677_Plate24	1	1	1	1	1	1	1	0	0	1	1	CP-457677	214535-77-0
+20150610_CP-457677_Plate15	1	1	1	1	0	1	1	1	1	1	1	CP-457677	214535-77-0
+20140402_Zenarestat_Plate25	1	1	0	1	0	0	0	0	0	0	1	Zenarestat	112733-06-9
+20140409_CP-401387_Plate5	1	1	1	1	0	0	0	1	0	1	1	CP-401387	199171-88-5
+20140402_Besonprodil_Plate32	1	1	1	1	1	1	1	1	1	1	0	Besonprodil	253450-09-8
+20140326_CP-671305_Plate12	1	1	1	1	1	1	1	1	1	1	1	CP-671305	445295-04-5
+20140402_CI-1018_Plate22	1	1	1	1	1	1	1	0	0	1	1	CI-1018	NOCAS_47248
+20140409_Di(propylene glycol) dibenzoate_Plate3	1	1	1	1	0	1	0	1	1	0	0	Di(propylene glycol) dibenzoate	27138-31-4
+20140402_Cladribine_Plate23	1	1	1	1	1	1	1	1	0	1	1	Cladribine	4291-63-8
+20140402_4-Nitrophenol_Plate11	0	1	1	0	0	0	0	1	0	0	0	4-Nitrophenol	100-02-7
+20140409_all-trans-Retinoic acid_Plate2	0	1	1	1	1	1	1	1	0	0	0	all-trans-Retinoic acid	302-79-4
+20140402_Isoeugenol_Plate10	1	1	0	1	1	1	0	1	1	1	1	Isoeugenol	97-54-1
+20140402_Dipentyl phthalate_Plate20	0	0	0	1	0	1	0	0	0	1	1	Dipentyl phthalate	131-18-0
+20140402_4-(2-Methylbutan-2-yl)phenol_Plate15	1	0	1	1	1	1	1	1	0	1	1	4-(2-Methylbutan-2-yl)phenol	80-46-6
+20140326_4-(Butan-2-yl)phenol_Plate15	0	1	1	1	1	1	1	0	0	1	1	4-(Butan-2-yl)phenol	99-71-8
+20150610_4-Chloro-3-methylphenol_Plate14	0	1	1	1	1	0	0	0	0	1	1	4-Chloro-3-methylphenol	59-50-7
+20150610_Fluridone_Plate11	0	1	1	1	1	1	0	0	0	1	1	Fluridone	59756-60-4
+20140326_4-Cyclohexylcyclohexanol_Plate11	0	1	1	1	1	0	0	1	1	1	1	4-Cyclohexylcyclohexanol	2433-14-9
+20140402_Mifepristone_Plate5	0	1	1	0	0	0	0	0	0	0	0	Mifepristone	84371-65-3
+20140326_Phenothiazine_Plate11	1	1	1	1	1	1	1	1	1	1	1	Phenothiazine	92-84-2
+20140402_4-Aminoazobenzene_Plate31	1	1	1	0	1	1	1	1	1	1	1	4-Aminoazobenzene	60-09-3
+20140409_Phenolphthalin_Plate9	0	1	1	1	1	1	1	0	0	1	0	Phenolphthalin	81-90-3
+20140402_Benodanil_Plate11	1	1	1	1	1	1	1	1	1	0	1	Benodanil	15310-01-7
+20140402_Chlorthal-dimethyl_Plate5	0	1	0	1	1	1	1	0	0	1	1	Chlorthal-dimethyl	1861-32-1
+20140402_MK-274_Plate1	1	0	0	0	0	1	0	0	0	0	0	MK-274	NOCAS_47328
+20140402_2-Amino-5-azotoluene_Plate24	0	1	1	0	1	0	0	1	0	1	1	2-Amino-5-azotoluene	97-56-3
+20140402_17alpha-Estradiol_Plate26	1	0	1	1	0	0	0	0	0	1	1	17alpha-Estradiol	57-91-0
+20150610_17alpha-Estradiol_Plate15	1	1	1	1	1	1	1	0	0	1	1	17alpha-Estradiol	57-91-0
+20140409_4-Cyclohexylcyclohexanone_Plate7	1	0	1	0	0	1	1	1	1	0	1	4-Cyclohexylcyclohexanone	92-68-2
+20140326_Spironolactone_Plate10	1	1	0	1	1	1	1	1	1	0	0	Spironolactone	52-01-7
+20140326_Terbufos_Plate15	1	0	0	1	1	0	0	1	1	0	0	Terbufos	13071-79-9
+20140402_Raloxifene hydrochloride_Plate6	1	0	1	1	0	1	0	1	0	0	0	Raloxifene hydrochloride	82640-04-8
+20140402_Daidzein_Plate22	1	1	1	1	1	1	1	1	1	1	1	Daidzein	486-66-8
+20140409_Testosterone propionate_Plate9	1	1	1	1	1	1	1	1	1	1	1	Testosterone propionate	57-85-2
+20140409_2-Naphthalenol_Plate1	1	1	1	1	1	0	0	1	1	1	1	2-Naphthalenol	135-19-3
+20140402_Cyproterone acetate_Plate21	1	1	1	1	1	1	1	0	0	1	0	Cyproterone acetate	427-51-0
+20140402_Diphenyl isophthalate_Plate1	1	0	0	1	1	1	1	0	0	1	1	Diphenyl isophthalate	744-45-6
+20140402_N,N-Dimethyldecylamine oxide_Plate24	0	1	1	0	1	1	1	1	1	0	0	N,N-Dimethyldecylamine oxide	2605-79-0
+20140402_Disulfiram_Plate3	0	0	0	0	0	1	1	1	1	1	1	Disulfiram	97-77-8
+20150610_Cytarabine hydrochloride_Plate9	1	0	0	0	1	0	0	0	0	0	0	Cytarabine hydrochloride	69-74-9
+20140402_Fluoranthene_Plate30	1	1	1	1	1	1	0	1	1	1	1	Fluoranthene	206-44-0
+20140402_Tebuconazole_Plate13	1	1	1	1	1	1	1	1	1	1	1	Tebuconazole	107534-96-3
+20140402_Azobenzene_Plate30	0	1	1	1	0	1	0	0	0	1	1	Azobenzene	103-33-3
+20140402_1,2-Diphenylhydrazine_Plate19	0	1	1	1	0	1	1	1	1	1	1	1,2-Diphenylhydrazine	122-66-7
+20140409_Octyl gallate_Plate4	1	1	1	1	1	0	0	1	1	1	0	Octyl gallate	1034-01-1
+20140326_3,4-Diaminotoluene_Plate12	1	1	1	1	0	1	0	0	1	1	1	3,4-Diaminotoluene	496-72-0
+20140402_5-Amino-2-methylphenol_Plate21	1	1	1	1	1	0	1	0	0	1	1	5-Amino-2-methylphenol	2835-95-2
+20140409_Endrin_Plate5	0	1	1	1	1	1	1	0	0	0	0	Endrin	72-20-8
+20140326_4-Chloroaniline_Plate11	0	1	1	1	1	0	0	1	1	1	1	4-Chloroaniline	106-47-8
+20140326_7,12-Dimethylbenz(a)anthracene_Plate9	0	0	0	0	1	1	0	1	0	1	1	7,12-Dimethylbenz(a)anthracene	57-97-6
+20140402_4,4'-Oxydianiline_Plate11	1	0	0	1	1	1	1	1	1	1	0	4,4'-Oxydianiline	101-80-4
+20150610_4-Nitrobenzoic acid_Plate12	0	0	0	0	0	0	0	0	0	0	0	4-Nitrobenzoic acid	62-23-7
+20140326_10-Undecenoic acid_Plate9	1	1	1	0	0	0	0	1	1	1	1	10-Undecenoic acid	112-38-9
+20140402_4,4'-Methylenebis(N,N-dimethylaniline)_Plate26	0	1	1	0	0	0	0	0	0	0	0	4,4'-Methylenebis(N,N-dimethylaniline)	101-61-1
+20140402_2-Methyl-5-nitroaniline_Plate14	0	1	1	1	0	1	0	0	0	1	0	2-Methyl-5-nitroaniline	99-55-8
+20140326_Oxytetracycline hydrochloride_Plate15	1	1	1	1	1	1	0	0	0	0	0	Oxytetracycline hydrochloride	2058-46-0
+20140402_Benz(a)anthracene_Plate4	0	1	1	1	1	1	1	1	1	1	1	Benz(a)anthracene	56-55-3
+20140402_Ethion_Plate9	1	1	1	1	1	1	1	1	1	0	1	Ethion	563-12-2
+20140409_Chlorpyrifos_Plate7	0	1	0	0	1	0	1	1	1	0	0	Chlorpyrifos	2921-88-2
+20140409_Pirinixic acid_Plate8	1	1	1	0	0	1	0	1	0	0	0	Pirinixic acid	50892-23-4
+20140402_3-Methylaniline_Plate7	0	1	1	0	0	0	0	0	1	0	0	3-Methylaniline	108-44-1
+20140402_Phenanthrene_Plate16	1	1	1	1	1	1	0	1	1	0	0	Phenanthrene	85-01-8
+20140409_4-Chloro-1,2-diaminobenzene_Plate8	1	1	1	1	1	0	0	0	1	1	0	4-Chloro-1,2-diaminobenzene	95-83-0
+20140402_Genistein_Plate19	1	1	1	1	0	1	1	1	1	0	0	Genistein	446-72-0
+20140326_4-Androstene-3,17-dione_Plate17	1	1	1	1	1	1	1	1	1	1	0	4-Androstene-3,17-dione	63-05-8
+20140409_Pioglitazone hydrochloride_Plate1	1	1	1	1	0	1	0	0	0	0	0	Pioglitazone hydrochloride	112529-15-4
+20140402_Haloperidol_Plate21	1	0	1	1	0	1	1	1	1	1	0	Haloperidol	52-86-8
+20140326_Nitrilotriacetic acid_Plate19	1	0	1	0	1	1	1	1	1	1	1	Nitrilotriacetic acid	139-13-9
+20140402_5,5-Diphenylhydantoin_Plate14	0	0	0	0	1	1	1	0	0	0	0	5,5-Diphenylhydantoin	57-41-0
+20150610_Methyldopa sesquihydrate_Plate14	0	0	0	0	0	0	0	0	0	0	1	Methyldopa sesquihydrate	41372-08-1
+20140402_17beta-Estradiol_Plate17	1	0	1	1	1	1	1	1	1	1	1	17beta-Estradiol	50-28-2
+20150610_17beta-Estradiol_Plate12	1	1	0	1	1	1	1	0	0	1	1	17beta-Estradiol	50-28-2
+20140402_1-Hydroxypyrene_Plate20	1	1	1	0	1	1	1	1	1	0	1	1-Hydroxypyrene	5315-79-7
+20150610_Triethylene glycol bis(2-ethylhexanoate)_Plate14	0	0	0	0	0	0	0	0	0	1	0	Triethylene glycol bis(2-ethylhexanoate)	94-28-0
+20140402_Nitrofen_Plate31	0	1	1	0	0	0	1	0	0	0	0	Nitrofen	1836-75-5
+20140409_Tamoxifen citrate_Plate4	1	1	1	1	1	1	0	1	0	0	0	Tamoxifen citrate	54965-24-1
+20140402_3,3'-Dimethylbenzidine_Plate32	1	1	1	1	1	1	1	1	1	1	1	3,3'-Dimethylbenzidine	119-93-7
+20140402_Phenolphthalein_Plate2	1	1	1	1	1	1	1	0	1	0	0	Phenolphthalein	77-09-8
+20140402_Anthralin_Plate11	0	1	1	0	0	1	1	1	1	1	1	Anthralin	1143-38-0
+20140402_Benzo(b)fluoranthene_Plate22	1	1	1	1	1	1	0	1	1	1	0	Benzo(b)fluoranthene	205-99-2
+20140402_CP-422935_Plate13	1	1	1	1	1	1	1	1	1	0	1	CP-422935	NOCAS_47299
+20140326_CI-1044_Plate10	1	1	1	1	1	1	1	1	1	1	1	CI-1044	NOCAS_47291
+20150610_CI-1044_Plate9	1	1	1	1	1	1	1	0	1	1	1	CI-1044	NOCAS_47291
+20140326_CP-863187_Plate14	1	1	0	1	0	0	0	0	0	0	0	CP-863187	668981-02-0
+20140409_Corticosterone_Plate4	1	1	1	1	1	1	1	1	0	0	0	Corticosterone	50-22-6
+20140402_Pyrene_Plate31	1	1	1	1	0	1	0	1	1	1	1	Pyrene	129-00-0
+20140326_Procymidone_Plate21	1	1	1	1	1	1	0	1	1	1	1	Procymidone	32809-16-8
+20140326_Triadimenol_Plate15	1	1	1	1	1	1	1	1	0	1	0	Triadimenol	55219-65-3
+20140402_1,2,3,4,5,6-Hexachlorocyclohexane_Plate25	1	1	1	1	1	1	1	1	1	0	1	1,2,3,4,5,6-Hexachlorocyclohexane	608-73-1
+20140402_Triclosan_Plate3	0	0	0	0	0	0	0	0	0	0	1	Triclosan	3380-34-5
+20150610_1,3,5-Trimethylbenzene_Plate13	0	0	0	0	0	0	0	0	0	0	0	1,3,5-Trimethylbenzene	108-67-8
+20140402_4-Hydroxytamoxifen_Plate16	1	1	1	1	0	1	0	0	0	0	0	4-Hydroxytamoxifen	68392-35-8
+20150610_4-Hydroxytamoxifen_Plate12	1	1	0	1	0	1	0	0	0	0	0	4-Hydroxytamoxifen	68392-35-8
+20140326_Norgestrel_Plate14	1	1	1	0	1	1	0	0	0	1	0	Norgestrel	797-63-7
+20140409_5HPP-33_Plate8	0	0	0	0	0	0	0	0	0	0	0	5HPP-33	105624-86-0
+20140402_3-Hydroxyfluorene_Plate3	1	1	1	1	1	1	1	1	1	1	0	3-Hydroxyfluorene	6344-67-8
+20150610_Carbofuran_Plate15	0	0	0	0	0	1	1	0	0	1	1	Carbofuran	1563-66-2
+20140409_Mepanipyrim_Plate3	0	0	1	1	0	1	0	1	1	1	1	Mepanipyrim	110235-47-7
+20140402_FR145237_Plate28	1	1	1	1	1	1	1	0	0	1	0	FR145237	146011-65-6
+20140409_Isophorone diisocyanate_Plate1	0	1	0	1	0	0	0	0	0	0	0	Isophorone diisocyanate	4098-71-9
+20140402_FR167356_Plate18	0	0	1	1	0	1	0	1	1	0	0	FR167356	174185-16-1
+20140326_PharmaGSID48172_Plate19	0	0	1	1	1	1	1	1	1	1	0	PharmaGSID48172	NOCAS_48172
+20140409_FR130739_Plate10	1	1	1	1	1	1	1	1	0	1	1	FR130739	136042-19-8
+20140402_17beta-Trenbolone_Plate24	1	1	1	1	1	1	1	0	1	1	0	17beta-Trenbolone	10161-33-8
+20150610_o,p'-DDT_Plate9	0	0	0	0	0	0	0	0	0	0	0	o,p'-DDT	789-02-6
+20140409_C10-21 alkanesulfonic acids phenyl esters_Plate7	1	1	1	1	0	1	0	1	1	0	0	C10-21 alkanesulfonic acids phenyl esters	91082-17-6
+20140326_17alpha-Hydroxyprogesterone_Plate10	1	1	1	1	1	1	1	1	0	1	0	17alpha-Hydroxyprogesterone	68-96-2
+20140402_Clove leaf oil_Plate19	0	1	1	1	1	1	1	1	1	1	1	Clove leaf oil	8000-34-8
+20140409_Norethindrone_Plate6	1	0	1	1	1	1	1	1	1	1	1	Norethindrone	68-22-4
+20140402_Estrone_Plate26	1	0	0	1	0	1	1	0	0	1	1	Estrone	53-16-7
+20150610_Estrone_Plate16	1	1	1	1	1	1	1	1	1	1	1	Estrone	53-16-7
+20140402_Butam_Plate17	1	0	1	1	1	1	1	1	1	0	0	Butam	35256-85-0
+20140402_2,2-Dibromo-3-nitrilopropionamide_Plate23	0	1	0	1	1	0	0	1	0	1	1	2,2-Dibromo-3-nitrilopropionamide	10222-01-2
+20140409_3,3'-Dimethoxybenzidine dihydrochloride_Plate7	1	1	1	1	1	1	1	1	1	1	1	3,3'-Dimethoxybenzidine dihydrochloride	20325-40-0
+20140402_Phenothiazine_Plate14	1	1	1	1	1	1	0	1	1	1	1	Phenothiazine	92-84-2
+20140326_Bisphenol A_Plate20	1	0	0	1	1	0	0	1	1	1	1	Bisphenol A	80-05-7
+20140402_Triadimenol_Plate12	1	1	1	1	1	1	1	1	1	1	1	Triadimenol	55219-65-3
+20140326_Allethrin_Plate21	0	0	0	0	0	0	0	0	0	0	0	Allethrin	584-79-2
+20150610_Triclosan_Plate10	0	0	0	0	0	0	0	0	0	0	0	Triclosan	3380-34-5
+20140409_Phenothiazine_Plate3	1	1	1	1	0	1	1	1	1	1	1	Phenothiazine	92-84-2
+20140402_Triadimenol_Plate17	1	1	1	1	1	1	1	1	1	1	1	Triadimenol	55219-65-3
+20140402_Clorophene_Plate21	0	1	1	1	0	1	1	1	1	1	1	Clorophene	120-32-1
+20150610_Dimethoate_Plate7	0	0	0	0	0	0	0	0	0	0	0	Dimethoate	60-51-5
+20130320_Fluazifop-P-butyl_Plate11	0	1	1	1	1	1	0	0	1	1	1	Fluazifop-P-butyl	79241-46-6
+20130320_Triflumizole_Plate2	1	1	1	1	0	1	1	1	1	1	1	Triflumizole	68694-11-1
+20140326_Flumioxazin_Plate6	0	1	1	1	0	1	0	1	0	0	0	Flumioxazin	103361-09-7
+20140326_Carfentrazone-ethyl_Plate8	1	1	1	1	1	1	1	1	1	1	1	Carfentrazone-ethyl	128639-02-1
+20140326_Metalaxyl_Plate4	1	1	1	0	0	1	0	0	0	0	0	Metalaxyl	57837-19-1
+20130320_Prallethrin_Plate14	0	1	0	1	1	1	1	0	0	0	1	Prallethrin	23031-36-9
+20130321_Tetraconazole_Plate1	0	0	1	0	0	0	1	1	1	1	0	Tetraconazole	112281-77-3
+20130320_Sethoxydim_Plate4	1	0	0	1	1	1	0	0	0	1	1	Sethoxydim	74051-80-2
+20130320_Methoxyfenozide_Plate3	0	0	0	1	0	0	0	0	0	1	1	Methoxyfenozide	161050-58-4
+20130320_Cyproconazole_Plate5	1	1	1	1	0	1	1	1	1	1	1	Cyproconazole	94361-06-5
+20130321_Methyl parathion_Plate7	0	1	1	1	0	1	1	0	1	0	1	Methyl parathion	298-00-0
+20130320_Clomazone_Plate14	0	1	1	1	1	1	1	1	1	1	1	Clomazone	81777-89-1
+20130321_Cypermethrin_Plate1	0	0	0	0	0	1	0	0	0	1	0	Cypermethrin	52315-07-8
+20130321_Oxyfluorfen_Plate2	1	0	1	0	1	1	0	1	1	1	1	Oxyfluorfen	42874-03-3
+20130320_Fenthion_Plate13	1	1	1	1	1	1	1	1	1	1	1	Fenthion	55-38-9
+20140326_Fenitrothion_Plate2	0	1	1	1	1	1	0	1	1	1	1	Fenitrothion	122-14-5
+20130320_Prometryn_Plate13	0	0	1	1	1	1	1	1	1	1	1	Prometryn	7287-19-6
+20150610_Trifluralin_Plate2	0	0	1	1	0	0	1	0	1	0	0	Trifluralin	1582-09-8
+20150610_Benfluralin_Plate6	0	1	0	1	0	0	0	0	0	0	0	Benfluralin	1861-40-1
+20130320_Triadimefon_Plate11	1	1	1	1	0	1	1	1	1	1	1	Triadimefon	43121-43-3
+20130321_Chloridazon_Plate8	1	0	0	1	0	1	0	0	0	1	1	Chloridazon	1698-60-8
+20130320_Isazofos_Plate2	1	1	1	1	0	1	0	1	1	1	1	Isazofos	42509-80-8
+20150610_Methomyl_Plate3	0	0	1	0	0	0	0	0	1	0	0	Methomyl	16752-77-5
+20130320_Etridiazole_Plate2	0	1	0	1	1	1	0	0	0	1	1	Etridiazole	2593-15-9
+20150610_Triclosan_Plate1	0	0	0	0	0	0	0	0	0	0	0	Triclosan	3380-34-5
+20130320_Napropamide_Plate3	0	1	1	1	1	0	0	1	1	0	0	Napropamide	15299-99-7
+20130320_Iprodione_Plate8	1	1	1	1	1	1	1	1	1	1	1	Iprodione	36734-19-7
+20130321_Cyromazine_Plate1	0	0	0	0	0	0	0	0	0	0	0	Cyromazine	66215-27-8
+20150610_Cyromazine_Plate5	0	0	1	0	0	0	0	0	1	0	1	Cyromazine	66215-27-8
+20130321_Carbaryl_Plate5	1	0	1	0	1	1	1	1	1	1	1	Carbaryl	63-25-2
+20130321_Diuron_Plate6	1	0	1	1	0	1	0	1	1	0	0	Diuron	330-54-1
+20130321_Triadimenol2_Plate4	1	1	1	1	1	1	1	1	1	1	1	Triadimenol2	55219-65-3
+20130321_Vinclozolin_Plate3	1	1	1	1	0	1	1	1	1	0	0	Vinclozolin	50471-44-8
+20140326_Imidacloprid_Plate5	1	1	0	1	1	0	0	0	0	0	1	Imidacloprid	138261-41-3
+20150610_Imidacloprid_Plate4	0	0	0	0	0	0	0	0	0	0	0	Imidacloprid	138261-41-3
+20130321_Pirimicarb_Plate1	0	0	1	0	0	0	0	1	1	0	0	Pirimicarb	23103-98-2
+20140326_Hexythiazox_Plate8	1	1	1	1	1	1	1	1	1	1	1	Hexythiazox	78587-05-0
+20130321_Spiroxamine_Plate9	1	1	1	1	1	1	1	1	1	1	1	Spiroxamine	118134-30-8
+20140326_Paclobutrazol_Plate1	1	1	0	1	1	0	0	0	0	1	1	Paclobutrazol	76738-62-0
+20130320_Chlorpyrifos-methyl_Plate12	0	1	0	1	1	1	1	0	0	1	1	Chlorpyrifos-methyl	5598-13-0
+20140326_Deisopropylatrazine_Plate1	1	1	1	1	1	1	1	1	1	1	1	Deisopropylatrazine	1007-28-9
+20150610_Acephate_Plate4	0	0	0	0	0	1	1	0	0	1	1	Acephate	30560-19-1
+20150610_Abamectin_Plate3	0	1	1	1	1	0	0	0	0	0	0	Abamectin	71751-41-2
+20130320_Diazinon_Plate3	1	1	1	1	1	1	1	1	1	1	1	Diazinon	333-41-5
+20130321_Norflurazon_Plate4	1	0	0	0	1	1	0	0	1	1	1	Norflurazon	27314-13-2
+20130320_Cycloate_Plate13	0	0	0	0	0	0	1	0	0	1	1	Cycloate	1134-23-2
+20140326_Esfenvalerate_Plate3	1	1	1	1	1	1	1	1	1	1	1	Esfenvalerate	66230-04-4
+20130320_Prometon_Plate10	1	1	1	1	1	1	1	0	0	1	1	Prometon	1610-18-0
+20130320_Dimethomorph_Plate11	1	1	1	1	1	1	1	1	1	1	1	Dimethomorph	110488-70-5
+20130320_Thiacloprid_Plate15	1	0	1	1	1	1	1	0	1	1	1	Thiacloprid	111988-49-9
+20130321_Flusilazole_Plate6	0	0	1	1	0	0	1	1	1	1	1	Flusilazole	85509-19-9
+20130321_Tebufenozide_Plate5	1	0	0	1	0	0	0	1	0	1	1	Tebufenozide	112410-23-8
+20130320_Imazalil_Plate7	1	1	1	1	0	1	1	1	1	1	1	Imazalil	35554-44-0
+20130320_Isoxaben_Plate8	1	1	1	1	1	1	1	1	0	1	1	Isoxaben	82558-50-7
+20130320_Tefluthrin_Plate7	0	0	0	1	1	1	1	0	0	1	1	Tefluthrin	79538-32-2
+20130321_Clofentezine_Plate6	0	0	1	1	1	1	1	1	1	0	0	Clofentezine	74115-24-5
+20140326_Thiabendazole_Plate4	0	1	1	0	0	1	0	1	0	1	0	Thiabendazole	148-79-8
+20150610_Metribuzin_Plate6	0	0	1	0	0	0	1	1	1	0	0	Metribuzin	21087-64-9
+20150610_Chlorothalonil_Plate8	0	0	0	0	0	0	0	0	0	0	0	Chlorothalonil	1897-45-6
+20150610_2,4-Dichlorophenoxyacetic acid_Plate2	0	0	0	1	0	0	0	0	0	0	1	2,4-Dichlorophenoxyacetic acid	94-75-7
+20150610_Dichlobenil_Plate8	0	0	1	0	0	0	0	0	1	0	0	Dichlobenil	1194-65-6
+20130320_Diphenylamine_Plate2	0	1	0	1	1	1	0	0	0	1	1	Diphenylamine	122-39-4
+20130320_Captafol_Plate10	0	1	0	1	1	1	1	0	0	1	0	Captafol	2425-06-1
+20150610_Metam-sodium hydrate_Plate1	0	0	0	0	0	1	1	1	0	1	1	Metam-sodium hydrate	6734-80-1
+20140326_Fenhexamid_Plate2	1	1	1	1	1	1	1	1	1	1	0	Fenhexamid	126833-17-8
+20150610_Oxamyl_Plate3	0	0	0	0	0	0	0	0	0	0	0	Oxamyl	23135-22-0
+20130321_Flufenacet_Plate8	0	0	0	1	1	0	1	0	0	0	0	Flufenacet	142459-58-3
+20130320_Myclobutanil_Plate6	1	1	1	1	0	1	1	1	1	1	1	Myclobutanil	88671-89-0
+20130320_Thiobencarb_Plate10	1	1	0	1	1	1	0	1	1	0	0	Thiobencarb	28249-77-6
+20140326_Difenoconazole_Plate3	1	1	1	1	1	1	1	1	1	1	1	Difenoconazole	119446-68-3
+20150610_Metolachlor_Plate8	0	0	0	0	0	1	1	0	0	0	0	Metolachlor	51218-45-2
+20130320_Propyzamide_Plate5	1	1	1	1	0	1	0	1	1	1	1	Propyzamide	23950-58-5
+20130321_Clothianidin_Plate9	0	0	0	0	0	0	0	0	0	0	0	Clothianidin	210880-92-5
+20130321_Imazamox_Plate8	0	0	0	1	0	1	0	0	0	0	0	Imazamox	114311-32-9
+20130321_Prochloraz_Plate4	1	1	1	1	1	1	1	1	1	1	1	Prochloraz	67747-09-5
+20150610_Folpet_Plate1	0	1	1	0	1	1	1	1	0	0	1	Folpet	133-07-3
+20130321_Flumetralin_Plate3	1	1	1	1	1	1	0	1	1	1	1	Flumetralin	62924-70-3
+20130321_Daminozide_Plate2	0	0	0	0	0	0	0	0	0	0	0	Daminozide	1596-84-5
+20150610_Daminozide_Plate5	0	0	0	0	0	0	1	0	0	0	1	Daminozide	1596-84-5
+20130320_Anilazine_Plate11	0	1	1	1	0	1	0	1	0	1	1	Anilazine	101-05-3
+20130321_Bromacil_Plate8	1	0	0	1	1	1	0	0	1	1	1	Bromacil	314-40-9
+20130320_Cyanazine_Plate15	1	1	1	1	1	1	1	1	1	1	1	Cyanazine	21725-46-2
+20150610_Cyanazine_Plate7	0	0	0	0	0	0	0	0	0	1	0	Cyanazine	21725-46-2
+20130320_Acifluorfen_Plate5	1	1	1	1	1	1	1	1	1	0	1	Acifluorfen	50594-66-6
+20150610_Propiconazole_Plate4	0	0	0	0	1	0	1	0	0	0	0	Propiconazole	60207-90-1
+20140326_Oxadiazon_Plate4	1	0	1	1	0	0	0	0	0	0	0	Oxadiazon	19666-30-9
+20150610_EPTC_Plate2	0	0	0	1	0	0	0	0	0	0	0	EPTC	759-94-4
+20140326_Ametryn_Plate1	0	1	1	1	0	1	0	1	0	1	1	Ametryn	834-12-8
+20140326_Permethrin_Plate7	1	1	1	1	0	1	1	1	1	1	1	Permethrin	52645-53-1
+20130320_Phosalone_Plate12	1	1	1	1	1	1	1	1	1	1	1	Phosalone	2310-17-0
+20130321_Fluometuron_Plate4	0	0	1	1	1	0	1	1	1	0	0	Fluometuron	2164-17-2
+20130321_Monocrotophos_Plate3	0	0	0	0	0	0	0	0	0	0	0	Monocrotophos	6923-22-4
+20150610_Monocrotophos_Plate5	0	0	0	0	1	0	0	0	0	1	1	Monocrotophos	6923-22-4
+20150610_Thiophanate-methyl_Plate1	1	0	1	0	1	1	1	1	0	0	1	Thiophanate-methyl	23564-05-8
+20130321_Propetamphos_Plate2	1	1	1	1	1	1	1	1	1	1	1	Propetamphos	31218-83-4
+20130320_Fenbuconazole_Plate9	0	1	1	1	0	1	1	1	1	0	0	Fenbuconazole	114369-43-6
+20140326_Pyriproxyfen_Plate2	0	1	1	1	0	0	0	0	0	1	1	Pyriproxyfen	95737-68-1
+20130320_Pyraflufen-ethyl_Plate13	0	1	1	1	1	1	1	0	0	1	1	Pyraflufen-ethyl	129630-19-9
+20130321_Carboxin_Plate7	0	0	1	0	0	0	0	0	0	1	1	Carboxin	5234-68-4
+20140326_Linuron_Plate7	1	0	1	0	1	0	0	1	0	0	0	Linuron	330-55-2
+20140326_Clodinafop-propargyl_Plate1	1	1	1	1	1	1	1	1	0	1	1	Clodinafop-propargyl	105512-06-9
+20140326_Bifenthrin_Plate5	1	1	1	0	1	1	1	1	1	1	0	Bifenthrin	82657-04-3
+20130321_2-Phenylphenol_Plate2	1	1	1	1	0	1	1	1	1	1	1	2-Phenylphenol	90-43-7
+20130321_Flutolanil_Plate3	1	1	1	1	0	1	1	1	1	1	1	Flutolanil	66332-96-5
+20130320_Methidathion_Plate6	1	1	1	1	1	1	0	1	1	1	0	Methidathion	950-37-8
+20130320_Malathion_Plate15	0	1	1	1	0	1	0	0	0	1	1	Malathion	121-75-5
+20130320_Ethoprop_Plate15	0	0	0	0	1	1	1	1	1	1	1	Ethoprop	13194-48-4
+20130320_Fenamiphos_Plate8	1	1	1	1	1	1	1	1	1	0	0	Fenamiphos	22224-92-6
+20140326_Boscalid_Plate7	0	1	1	1	1	1	1	1	0	1	1	Boscalid	188425-85-6
+20140326_Piperonyl butoxide_Plate2	1	1	0	1	1	0	0	0	0	1	1	Piperonyl butoxide	51-03-6
+20130320_Lactofen_Plate9	0	1	1	1	1	1	0	0	1	0	1	Lactofen	77501-63-4
+20130321_Maneb_Plate5	0	1	1	0	0	1	1	0	1	0	1	Maneb	12427-38-2
+20130320_Coumaphos_Plate6	1	1	1	1	1	1	0	0	0	1	1	Coumaphos	56-72-4
+20130321_Bendiocarb_Plate7	1	1	1	0	0	1	0	1	0	1	1	Bendiocarb	22781-23-3
+20130320_Azinphos-methyl_Plate10	0	1	1	0	0	0	0	0	0	0	0	Azinphos-methyl	86-50-0
+20130321_Butralin_Plate9	0	1	1	1	1	1	1	1	1	0	0	Butralin	33629-47-9
+20130320_Formetanate hydrochloride_Plate4	1	1	1	1	1	1	1	0	0	1	1	Formetanate hydrochloride	23422-53-9
+20130320_Acibenzolar-S-methyl_Plate9	1	0	1	1	1	1	1	1	1	1	1	Acibenzolar-S-methyl	135158-54-2
+20150610_MGK-264_Plate7	0	0	0	0	0	0	0	0	0	0	0	MGK-264	113-48-4
+20130320_Molinate_Plate14	0	0	0	1	1	1	1	0	0	0	1	Molinate	2212-67-1
+20130320_Pirimiphos-methyl_Plate12	0	1	1	1	1	1	1	1	1	1	1	Pirimiphos-methyl	29232-93-7
+20140326_Flumetsulam_Plate5	0	0	0	0	0	0	0	0	0	1	1	Flumetsulam	98967-40-9
+20150610_Flumetsulam_Plate4	0	0	1	0	0	1	0	0	0	1	1	Flumetsulam	98967-40-9
+20150610_Captan_Plate7	0	0	0	0	0	0	0	0	0	0	0	Captan	133-06-2
+20130320_Flumiclorac-pentyl_Plate8	1	1	1	1	1	1	1	0	0	0	0	Flumiclorac-pentyl	87546-18-7
+20140326_Diniconazole_Plate6	0	1	1	1	1	1	1	1	0	1	0	Diniconazole	83657-24-3
+20140326_MCPA_Plate4	1	1	0	0	0	1	0	0	0	1	0	MCPA	94-74-6
+20150610_MCPA_Plate3	0	1	1	0	0	0	0	1	0	0	0	MCPA	94-74-6
+20130320_Propanil_Plate7	1	1	1	1	1	1	0	1	1	0	0	Propanil	709-98-8
+20130320_Simazine_Plate9	1	1	1	1	1	1	0	0	0	1	1	Simazine	122-34-9
+20130321_Chloroneb_Plate9	0	0	1	0	1	0	1	0	1	0	0	Chloroneb	2675-77-6
+20130320_Chlorpropham_Plate12	0	0	1	1	1	1	1	0	0	1	1	Chlorpropham	101-21-3
+20130321_Propoxur_Plate6	0	0	1	0	0	1	1	0	0	0	0	Propoxur	114-26-1
+20150610_Propazine_Plate6	1	0	1	1	1	1	0	1	1	1	1	Propazine	139-40-2
+20130320_Atrazine_Plate14	1	1	1	1	0	1	1	0	1	1	1	Atrazine	1912-24-9
+20150610_Pentachloronitrobenzene_Plate6	0	0	0	0	0	0	1	1	0	0	1	Pentachloronitrobenzene	82-68-8
+20150610_Benomyl_Plate5	0	0	1	0	0	1	0	1	1	0	0	Benomyl	17804-35-2
+20130321_Bisphenol A_Plate7	0	1	0	1	1	0	0	1	1	0	0	Bisphenol A	80-05-7
+20130320_Tralkoxydim_Plate7	0	1	1	1	1	1	0	0	1	0	0	Tralkoxydim	87820-88-0
+20140326_Triticonazole_Plate5	1	1	1	1	1	1	1	1	0	1	1	Triticonazole	131983-72-7
+20130321_Etoxazole_Plate5	1	0	1	0	0	1	0	0	1	0	0	Etoxazole	153233-91-1
+20140326_Novaluron_Plate3	0	1	1	1	0	0	0	0	0	1	1	Novaluron	116714-46-6
+20130320_Cinmethylin_Plate5	1	1	1	1	0	1	1	1	1	1	1	Cinmethylin	87818-31-3
+20140326_Cyfluthrin_Plate8	1	1	1	0	1	1	1	1	1	0	1	Cyfluthrin	68359-37-5
+20140326_Triadimenol2_Plate6	1	1	1	1	0	0	1	1	0	0	0	Triadimenol2	55219-65-3
+20140326_Bisphenol A_Plate6	0	0	0	1	1	0	0	1	1	1	1	Bisphenol A	80-05-7
+20140326_Triadimenol2_Plate7	1	1	1	1	0	0	1	0	0	0	0	Triadimenol2	55219-65-3
+20130320_Spirodiclofen_Plate6	1	1	1	1	0	1	0	1	1	1	1	Spirodiclofen	148477-71-8
+20150610_Kinetin_Plate17	1	1	1	1	1	1	0	0	0	0	0	Kinetin	525-79-1
+20140903_Nonivamide_Plate6	0	0	1	1	0	1	1	1	1	0	0	Nonivamide	2444-46-4
+20150610_Nonivamide_Plate25	1	1	1	1	1	1	1	1	1	0	1	Nonivamide	2444-46-4
+20140409_Flufenoxuron_Plate13	1	1	1	1	0	1	0	1	0	1	0	Flufenoxuron	101463-69-8
+20140409_Spiromesifen_Plate24	0	0	0	0	0	0	0	0	0	1	0	Spiromesifen	283594-90-1
+20140409_4-Dodecylmorpholine_Plate12	1	1	1	1	1	1	1	1	1	0	0	4-Dodecylmorpholine	1541-81-7
+20140409_6-Acetyl-1,1,2,4,4,7-hexamethyltetralin_Plate21	1	0	0	0	0	0	0	0	0	0	0	6-Acetyl-1,1,2,4,4,7-hexamethyltetralin	21145-77-7
+20140409_1,4-Benzenediamine_Plate30	1	1	1	1	0	1	1	1	0	1	1	1,4-Benzenediamine	106-50-3
+20150610_2-Hydroxybenzonitrile_Plate19	0	1	1	1	0	1	0	1	0	1	1	2-Hydroxybenzonitrile	611-20-1
+20140409_Thiocarbazide_Plate11	1	1	1	1	0	1	1	1	0	0	0	Thiocarbazide	2231-57-4
+20140409_Kresoxim-methyl_Plate32	0	0	1	0	0	1	0	1	0	0	0	Kresoxim-methyl	143390-89-0
+20140903_Prothioconazole_Plate3	0	1	0	1	0	0	1	1	1	0	0	Prothioconazole	178928-70-6
+20150610_Prothioconazole_Plate23	1	1	1	1	1	1	0	1	1	1	0	Prothioconazole	178928-70-6
+20150610_4-Chloro-2-methylphenol_Plate20	0	1	1	0	0	1	1	1	1	1	1	4-Chloro-2-methylphenol	1570-64-5
+20130320_Parathion_Plate3	1	1	1	1	0	1	1	0	1	1	1	Parathion	56-38-2
+20130320_Profenofos_Plate4	0	1	1	1	0	1	0	0	0	1	1	Profenofos	41198-08-7
+20140409_Dicyclohexylamine_Plate30	0	1	1	1	0	1	1	1	1	0	1	Dicyclohexylamine	101-83-7
+20140903_N-Isopropyl-N'-phenyl-p-phenylenediamine_Plate2	0	0	1	1	1	0	0	1	1	1	1	N-Isopropyl-N'-phenyl-p-phenylenediamine	101-72-4
+20150610_N-Isopropyl-N'-phenyl-p-phenylenediamine_Plate22	0	0	0	0	0	0	0	1	0	1	1	N-Isopropyl-N'-phenyl-p-phenylenediamine	101-72-4
+20140409_3,4-Dichloroaniline_Plate33	1	1	1	1	1	1	0	1	1	1	1	3,4-Dichloroaniline	95-76-1
+20140409_N-Benzyladenine_Plate24	0	1	1	1	0	1	1	1	1	0	1	N-Benzyladenine	1214-39-7
+20140409_4-Phenylphenol_Plate21	1	1	1	1	1	1	0	1	1	1	0	4-Phenylphenol	92-69-3
+20140409_2-Hydroxy-4-methoxybenzophenone_Plate23	1	0	1	1	1	0	0	1	1	1	1	2-Hydroxy-4-methoxybenzophenone	131-57-7
+20140409_Deethylatrazine_Plate29	1	1	1	1	1	1	1	1	1	1	1	Deethylatrazine	6190-65-4
+20140409_4-Chlorophenylurea_Plate29	0	0	1	1	1	1	0	1	1	0	0	4-Chlorophenylurea	140-38-5
+20140409_Sulprofos_Plate31	1	1	1	1	0	1	0	1	1	0	0	Sulprofos	35400-43-2
+20140409_Tris(2-butoxyethyl) phosphate_Plate15	1	0	0	0	0	0	0	0	0	1	0	Tris(2-butoxyethyl) phosphate	78-51-3
+20140409_(4Z)-4-Decenal_Plate27	0	0	0	0	1	1	1	1	1	1	1	(4Z)-4-Decenal	21662-09-9
+20140409_Propham_Plate27	0	1	0	0	1	0	1	0	0	1	1	Propham	122-42-9
+20140409_2-Ethylhexyl 4-(dimethylamino)benzoate_Plate18	1	1	1	1	0	1	0	1	1	0	0	2-Ethylhexyl 4-(dimethylamino)benzoate	21245-02-3
+20140409_1-Phenyl-1H-pyrrole-2,5-dione_Plate34	0	0	1	0	0	1	1	1	0	1	1	1-Phenyl-1H-pyrrole-2,5-dione	941-69-5
+20140409_Benzyl salicylate_Plate16	1	1	1	0	1	0	1	1	1	1	0	Benzyl salicylate	118-58-1
+20140409_3-Phenyl-2-propen-1-ol_Plate21	1	1	0	1	0	0	0	1	0	1	1	3-Phenyl-2-propen-1-ol	104-54-1
+20140409_Sodium 2-phenylphenate tetrahydrate_Plate11	1	1	1	1	1	0	0	0	0	1	1	Sodium 2-phenylphenate tetrahydrate	6152-33-6
+20140409_4,4'-Sulfonyldiphenol_Plate23	1	1	1	1	0	1	1	1	1	1	1	4,4'-Sulfonyldiphenol	80-09-1
+20140409_Epoxiconazole_Plate20	1	1	1	1	0	1	1	1	1	1	1	Epoxiconazole	133855-98-8
+20140903_Azinphos-ethyl_Plate6	0	1	1	1	1	1	1	1	0	1	1	Azinphos-ethyl	2642-71-9
+20150610_Azinphos-ethyl_Plate25	1	1	1	1	0	1	1	1	1	1	1	Azinphos-ethyl	2642-71-9
+20140409_Fenvalerate_Plate13	1	1	1	1	0	1	1	1	0	0	0	Fenvalerate	51630-58-1
+20140409_1,4-Diaminoanthraquinone_Plate16	1	1	1	1	0	1	1	0	0	1	1	1,4-Diaminoanthraquinone	128-95-0
+20140409_Methylbenzethonium chloride_Plate25	1	1	1	1	0	1	0	1	0	0	0	Methylbenzethonium chloride	25155-18-4
+20140409_Ethyl 1-naphthaleneacetate_Plate28	1	1	1	1	0	1	0	1	1	1	1	Ethyl 1-naphthaleneacetate	2122-70-5
+20140409_2-Hydroxyethyl acrylate_Plate12	1	1	1	1	0	0	0	1	0	0	0	2-Hydroxyethyl acrylate	818-61-1
+20140903_2,2'-Dibenzoylaminodiphenyl disulfide_Plate17	0	1	0	1	1	1	1	1	0	1	1	2,2'-Dibenzoylaminodiphenyl disulfide	135-57-9
+20150610_2,2'-Dibenzoylaminodiphenyl disulfide_Plate37	0	0	0	0	0	0	0	0	0	0	0	2,2'-Dibenzoylaminodiphenyl disulfide	135-57-9
+20140409_2,6-Di-tert-butyl-4-ethylphenol_Plate28	0	0	0	0	0	0	0	0	0	0	0	2,6-Di-tert-butyl-4-ethylphenol	4130-42-1
+20140903_4,6-Di-tert-butyl-m-cresol_Plate9	0	0	0	1	1	1	1	1	1	0	1	4,6-Di-tert-butyl-m-cresol	497-39-2
+20140409_7-(Dimethylamino)-4-methylcoumarin_Plate32	1	1	1	1	0	0	0	1	1	0	0	7-(Dimethylamino)-4-methylcoumarin	87-01-4
+20150610_N-Octyl-2-pyrrolidone_Plate18	1	1	1	1	1	1	1	0	1	1	1	N-Octyl-2-pyrrolidone	2687-94-7
+20140409_3-Isopropylphenol_Plate32	1	1	1	1	0	1	1	1	1	1	1	3-Isopropylphenol	618-45-1
+20140409_Cloquintocet-mexyl_Plate20	0	1	1	1	0	1	1	1	0	1	0	Cloquintocet-mexyl	99607-70-2
+20140409_Fenoxaprop-P-ethyl_Plate29	1	1	1	1	1	1	0	0	0	0	0	Fenoxaprop-P-ethyl	71283-80-2
+20140409_Phenothrin_Plate26	1	1	1	0	0	1	1	1	1	0	1	Phenothrin	26002-80-2
+20140409_(2R,6S)-Fenpropimorph_Plate23	1	1	1	1	0	1	1	1	1	0	0	(2R,6S)-Fenpropimorph	67564-91-4
+20140903_Chlorfenvinphos_Plate5	1	1	1	1	1	1	1	1	1	1	0	Chlorfenvinphos	470-90-6
+20150610_Chlorfenvinphos_Plate24	1	1	1	1	1	1	1	0	1	0	0	Chlorfenvinphos	470-90-6
+20140409_Endosulfan sulfate_Plate23	1	1	1	1	0	1	1	1	1	1	1	Endosulfan sulfate	1031-07-8
+20140409_Chlorfenapyr_Plate22	0	1	0	0	0	0	0	0	0	1	0	Chlorfenapyr	122453-73-0
+20140409_Phoxim_Plate19	0	1	1	1	1	1	1	1	1	0	0	Phoxim	14816-18-3
+20140409_Paraoxon_Plate14	1	1	1	1	0	1	1	0	0	0	0	Paraoxon	311-45-5
+20140409_Endosulfan I_Plate27	1	1	1	1	0	1	1	1	1	0	0	Endosulfan I	959-98-8
+20140409_Estriol_Plate22	1	0	0	1	0	1	1	0	0	1	1	Estriol	50-27-1
+20140409_2,4,6-Tris(allyloxy)-1,3,5-triazine_Plate29	1	1	1	1	1	1	1	1	1	1	1	2,4,6-Tris(allyloxy)-1,3,5-triazine	101-37-1
+20150610_1,3,5-Triethylhexahydro-s-triazine_Plate18	0	0	0	0	0	0	0	0	0	1	1	1,3,5-Triethylhexahydro-s-triazine	7779-27-3
+20140409_1-(Bromomethyl)-3-phenoxybenzene_Plate26	0	1	1	1	1	0	0	1	1	1	1	1-(Bromomethyl)-3-phenoxybenzene	51632-16-7
+20140409_1,4-Dihydroxy-2-naphthoic acid_Plate25	1	1	1	1	0	1	0	0	0	0	0	1,4-Dihydroxy-2-naphthoic acid	31519-22-9
+20140409_Methyl 2,4-dihydroxy-3,6-dimethylbenzoate_Plate33	1	1	1	0	1	1	0	1	1	1	1	Methyl 2,4-dihydroxy-3,6-dimethylbenzoate	4707-47-5
+20150610_3-tert-Butylphenol_Plate17	0	1	1	0	0	0	0	0	1	0	0	3-tert-Butylphenol	585-34-2
+20140409_2,4,6-Tribromophenol_Plate19	0	1	1	0	0	0	0	0	0	1	1	2,4,6-Tribromophenol	118-79-6
+20140903_2,6-Di-tert-butyl-4-nitrophenol_Plate2	0	0	1	1	1	1	1	1	1	1	0	2,6-Di-tert-butyl-4-nitrophenol	728-40-5
+20150610_2,6-Di-tert-butyl-4-nitrophenol_Plate21	0	0	0	0	0	0	0	1	0	0	0	2,6-Di-tert-butyl-4-nitrophenol	728-40-5
+20150610_Z-Tetrachlorvinphos_Plate18	0	0	1	0	1	1	1	1	1	0	1	Z-Tetrachlorvinphos	22248-79-9
+20140409_1,1-Bis(3,4-dimethylphenyl)ethane_Plate28	1	1	1	1	0	1	0	1	1	0	1	1,1-Bis(3,4-dimethylphenyl)ethane	1742-14-9
+20140409_2-(3-Phenylpropyl)pyridine_Plate17	1	1	1	0	0	0	0	0	1	1	1	2-(3-Phenylpropyl)pyridine	2110-18-1
+20140409_1-Cedr-8-en-9-ylethanone_Plate19	0	0	1	0	0	0	1	0	0	1	0	1-Cedr-8-en-9-ylethanone	32388-55-9
+20140409_Dehydroepiandrosterone_Plate30	1	1	1	1	0	1	1	1	1	1	0	Dehydroepiandrosterone	53-43-0
+20140409_Mestranol_Plate11	0	1	1	1	1	1	0	1	0	1	0	Mestranol	72-33-3
+20140409_Acid Orange 156_Plate12	1	1	1	1	1	1	1	0	0	1	1	Acid Orange 156	68555-86-2
+20140402_Darbufelone mesylate_Plate6	0	1	1	1	1	0	0	1	0	1	0	Darbufelone mesylate	139340-56-0
+20140326_PharmaGSID47259_Plate18	0	1	0	1	0	0	0	0	0	1	1	PharmaGSID47259	149062-75-9
+20140326_CP-283097_Plate20	1	1	1	0	1	1	1	0	1	0	1	CP-283097	171866-31-2
+20140326_CP-642931_Plate12	0	1	1	0	0	1	0	1	1	0	0	CP-642931	NOCAS_47267
+20140326_CP-728663_Plate12	0	1	0	1	1	1	0	1	0	1	0	CP-728663	368832-42-2
+20140402_UK-343664_Plate20	1	1	1	0	0	1	0	0	0	1	1	UK-343664	215297-27-1
+20140402_UK-156819_Plate15	1	1	1	1	1	1	1	1	1	1	1	UK-156819	162706-14-1
+20140409_SB413217A_Plate10	1	1	1	1	0	1	1	1	1	0	0	SB413217A	NOCAS_47325
+20140402_GSK163929B_Plate12	0	1	1	0	0	1	1	1	1	1	1	GSK163929B	NOCAS_47311
+20140409_SB243213A_Plate2	1	1	1	1	0	1	1	1	0	0	0	SB243213A	200940-23-4
+20150610_Troglitazone_Plate10	0	0	0	0	0	0	0	0	0	0	0	Troglitazone	97322-87-7
+20150610_GSK232420A_Plate14	0	1	0	1	0	0	0	0	0	0	1	GSK232420A	864283-48-7
+20140402_SSR146977_Plate14	1	1	1	1	0	1	0	0	1	1	0	SSR146977	264618-44-2
+20140402_Nelivaptan_Plate9	1	1	1	1	0	0	1	0	0	0	0	Nelivaptan	439687-69-1
+20140409_SAR 150640_Plate4	1	1	1	1	0	1	0	1	1	0	0	SAR 150640	433212-21-6
+20140326_PharmaGSID47337_Plate14	0	1	1	1	0	0	0	0	0	0	0	PharmaGSID47337	1061517-62-1
+20140402_Ketoconazole_Plate12	1	1	1	1	1	1	1	1	1	1	1	Ketoconazole	65277-42-1
+20140402_Lovastatin_Plate6	1	1	1	1	1	1	1	1	1	1	0	Lovastatin	75330-75-5
+20140402_Pravastatin sodium_Plate27	1	1	1	1	1	1	0	1	1	0	0	Pravastatin sodium	81131-70-6
+20140402_AVE8488_Plate32	1	1	1	0	1	1	1	1	1	0	1	AVE8488	NOCAS_47349
+20140903_Danazol_Plate21	1	1	1	1	1	1	1	1	1	1	1	Danazol	17230-88-5
+20150610_Danazol_Plate40	1	1	1	1	1	1	1	1	1	1	1	Danazol	17230-88-5
+20140409_N,N'-Disalicylidene-1,2-diaminopropane_Plate17	0	0	0	0	0	0	0	0	0	0	0	N,N'-Disalicylidene-1,2-diaminopropane	94-91-7
+20140409_Monotridecyl phosphate_Plate15	0	0	0	0	1	0	0	0	0	0	0	Monotridecyl phosphate	5116-94-9
+20140903_Lynestrenol_Plate20	0	0	1	1	0	1	1	1	1	1	1	Lynestrenol	52-76-6
+20150610_Lynestrenol_Plate40	1	1	1	1	0	1	1	1	1	0	0	Lynestrenol	52-76-6
+20140903_N-Phenyl-2-naphthylamine_Plate7	0	1	1	1	1	1	0	1	1	1	1	N-Phenyl-2-naphthylamine	135-88-6
+20150610_N-Phenyl-2-naphthylamine_Plate26	0	1	1	1	0	0	0	0	0	1	0	N-Phenyl-2-naphthylamine	135-88-6
+20140402_2-Ethoxyethyl acetate_Plate8	0	0	0	0	0	0	0	0	0	0	0	2-Ethoxyethyl acetate	111-15-9
+20140903_3,4-Dinitrotoluene_Plate4	1	1	1	1	0	0	1	1	1	0	0	3,4-Dinitrotoluene	610-39-9
+20150610_3,4-Dinitrotoluene_Plate23	1	1	1	1	1	1	0	0	1	1	0	3,4-Dinitrotoluene	610-39-9
+20140409_3,3'-Dimethylbenzidine dihydrochloride_Plate28	1	1	1	1	1	1	0	1	0	1	1	3,3'-Dimethylbenzidine dihydrochloride	612-82-8
+20140409_Dichlorophen_Plate27	1	1	1	0	0	1	0	1	1	0	1	Dichlorophen	97-23-4
+20140409_Dibutyltin dichloride_Plate13	0	0	1	0	0	1	0	0	0	1	1	Dibutyltin dichloride	683-18-1
+20140903_Dicyclohexylcarbodiimide_Plate21	0	0	1	0	1	1	1	1	1	0	0	Dicyclohexylcarbodiimide	538-75-0
+20150610_Dicyclohexylcarbodiimide_Plate41	0	1	1	1	1	0	0	1	1	0	0	Dicyclohexylcarbodiimide	538-75-0
+20140409_Farnesol_Plate26	1	1	1	0	0	1	1	1	1	0	0	Farnesol	4602-84-0
+20150610_4-Chloro-3,5-dimethylphenol_Plate19	1	1	1	1	1	1	0	0	0	1	1	4-Chloro-3,5-dimethylphenol	88-04-0
+20140409_Benzalkonium chloride_Plate14	1	1	1	1	0	1	0	1	1	0	0	Benzalkonium chloride	8001-54-5
+20140409_Methylene blue_Plate16	0	1	1	1	1	1	0	1	1	0	0	Methylene blue	61-73-4
+20140409_2-Methoxy-4-nitroaniline_Plate22	0	1	1	1	0	0	0	1	1	0	0	2-Methoxy-4-nitroaniline	97-52-9
+20150610_Nonoxynol_Plate17	0	0	0	0	1	0	1	0	0	1	1	Nonoxynol	26027-38-3
+20140409_Benzyl cinnamate_Plate31	1	1	1	0	1	1	0	1	1	1	1	Benzyl cinnamate	103-41-3
+20140409_1,2-Diphenylethanone_Plate15	1	1	1	0	0	0	1	1	1	1	0	1,2-Diphenylethanone	451-40-1
+20140409_Nordihydroguaiaretic acid_Plate26	0	1	1	1	1	1	0	1	1	1	0	Nordihydroguaiaretic acid	500-38-9
+20140409_2'-Acetonaphthone_Plate15	0	0	1	0	1	0	1	1	1	0	0	2'-Acetonaphthone	93-08-3
+20140903_Isofenphos_Plate18	0	1	1	1	1	1	1	1	0	0	0	Isofenphos	25311-71-1
+20150610_Isofenphos_Plate38	1	1	1	1	0	1	1	1	1	1	1	Isofenphos	25311-71-1
+20140903_Dinobuton_Plate1	0	1	1	0	1	1	1	1	1	1	1	Dinobuton	973-21-7
+20150610_Dinobuton_Plate20	1	0	1	1	1	1	0	0	0	1	0	Dinobuton	973-21-7
+20140409_2,3-Dinitrotoluene_Plate9	0	1	1	1	0	0	0	1	1	0	0	2,3-Dinitrotoluene	602-01-7
+20140409_2,4-D 1-butyl ester_Plate30	1	1	1	0	0	1	0	1	1	1	1	2,4-D 1-butyl ester	94-80-4
+20150610_Cybutryne_Plate19	1	1	1	1	0	1	0	1	0	1	1	Cybutryne	28159-98-0
+20140409_Triforine_Plate25	1	0	1	1	0	1	1	1	1	0	0	Triforine	26644-46-2
+20140409_Metconazole_Plate31	1	1	1	1	0	1	0	1	0	0	0	Metconazole	125116-23-6
+20140409_3-Phenoxybenzenemethanol_Plate18	0	0	1	1	1	0	0	1	1	1	1	3-Phenoxybenzenemethanol	13826-35-2
+20140903_1,6-Hexanediol diacrylate_Plate4	1	1	0	1	1	0	0	1	0	1	0	1,6-Hexanediol diacrylate	13048-33-4
+20150610_1,6-Hexanediol diacrylate_Plate23	0	1	1	1	0	1	0	0	1	1	1	1,6-Hexanediol diacrylate	13048-33-4
+20140903_3,3'-Dichlorobenzidine dihydrochloride_Plate5	1	0	1	1	1	0	0	1	1	1	1	3,3'-Dichlorobenzidine dihydrochloride	612-83-9
+20150610_3,3'-Dichlorobenzidine dihydrochloride_Plate24	0	1	0	1	1	0	0	1	0	0	0	3,3'-Dichlorobenzidine dihydrochloride	612-83-9
+20150610_2,5-Dichlorophenol_Plate19	0	1	1	1	0	0	0	0	0	0	0	2,5-Dichlorophenol	583-78-8
+20140409_1,2-Diphenoxyethane_Plate18	1	1	1	1	0	1	0	1	1	1	1	1,2-Diphenoxyethane	104-66-5
+20140409_Benzylparaben_Plate18	1	1	1	1	0	1	1	1	1	0	0	Benzylparaben	94-18-8
+20140409_Hydroxyprogesterone caproate_Plate12	0	0	1	0	0	0	1	0	0	0	0	Hydroxyprogesterone caproate	630-56-8
+20140409_Chrysin_Plate33	1	1	1	1	1	1	1	1	1	1	1	Chrysin	480-40-0
+20140402_Rifampicin_Plate3	0	1	1	1	0	0	0	0	0	0	0	Rifampicin	13292-46-1
+20150610_4-Methoxyaniline hydrochloride_Plate18	1	1	1	1	1	1	1	0	0	0	1	4-Methoxyaniline hydrochloride	20265-97-8
+20140903_4-Nitro-N-phenylaniline_Plate3	0	1	1	1	1	1	1	0	0	1	0	4-Nitro-N-phenylaniline	836-30-6
+20150610_4-Nitro-N-phenylaniline_Plate22	0	1	1	0	1	0	1	0	0	1	1	4-Nitro-N-phenylaniline	836-30-6
+20140409_Melatonin_Plate33	1	1	1	1	1	1	0	1	1	0	0	Melatonin	73-31-4
+20140409_3-Aminopropyltriethoxysilane_Plate22	0	0	0	0	0	0	0	0	1	0	1	3-Aminopropyltriethoxysilane	919-30-2
+20140409_Triphenylborane_Plate19	1	0	1	0	1	0	0	1	1	1	0	Triphenylborane	960-71-4
+20140903_N,N'-Dicyclohexylthiourea_Plate19	1	0	1	0	1	1	1	0	0	0	0	N,N'-Dicyclohexylthiourea	1212-29-9
+20150610_N,N'-Dicyclohexylthiourea_Plate39	1	1	1	1	1	1	1	0	0	1	1	N,N'-Dicyclohexylthiourea	1212-29-9
+20140409_Finasteride_Plate24	1	1	1	1	0	1	0	1	0	0	0	Finasteride	98319-26-7
+20140409_N,N-Dimethyldodecan-1-amine_Plate24	0	0	1	0	0	0	0	0	0	0	0	N,N-Dimethyldodecan-1-amine	112-18-5
+20150610_DINP branched_Plate17	0	0	0	0	1	0	0	0	0	1	1	DINP branched	68515-48-0
+20140409_Polymethylene polyphenyl isocynate_Plate13	1	1	1	1	0	1	1	1	1	0	1	Polymethylene polyphenyl isocynate	9016-87-9
+20150610_Tricresyl phosphate_Plate16	1	1	1	0	0	1	0	1	0	1	1	Tricresyl phosphate	1330-78-5
+20140409_Ergocalciferol_Plate17	1	0	1	0	1	1	0	1	1	1	0	Ergocalciferol	50-14-6
+20140326_4,4'-Bipyridine_Plate9	0	1	0	1	1	1	0	0	0	1	0	4,4'-Bipyridine	553-26-4
+20140409_Apigenin_Plate14	1	1	1	1	0	1	1	0	0	0	0	Apigenin	520-36-5
+20140402_17-Methyltestosterone_Plate18	1	1	1	1	1	1	1	0	0	1	1	17-Methyltestosterone	58-18-4
+20140409_1-Bromo-3-chloro-5,5-dimethylhydantoin_Plate20	0	0	0	1	0	1	0	0	0	1	0	1-Bromo-3-chloro-5,5-dimethylhydantoin	16079-88-2
+20140409_Equilin_Plate14	1	1	1	1	0	1	1	1	1	1	1	Equilin	474-86-2
+20140402_Dexamethasone sodium phosphate_Plate6	1	1	1	1	1	1	1	1	1	0	0	Dexamethasone sodium phosphate	2392-39-4
+20150610_Dexamethasone sodium phosphate_Plate11	1	0	1	1	1	0	0	1	1	0	1	Dexamethasone sodium phosphate	2392-39-4
+20140409_Forskolin_Plate17	1	1	1	1	1	1	1	1	1	1	1	Forskolin	66575-29-9
+20140409_Auramine hydrochloride_Plate21	0	0	0	0	0	0	0	0	0	0	0	Auramine hydrochloride	2465-27-2
+20140409_Benoxacor_Plate32	0	0	1	1	1	0	0	1	0	0	0	Benoxacor	98730-04-2
+20140409_4-Butylphenol_Plate16	1	0	1	0	1	1	1	0	0	0	1	4-Butylphenol	1638-22-8
+20140409_Phenmedipham_Plate20	1	0	1	1	0	1	1	1	0	0	0	Phenmedipham	13684-63-4
+20140409_4-(2-Phenylpropan-2-yl)-N-[4-(2-phenylpropan-2-yl)phenyl]aniline_Plate11	1	1	1	1	0	1	1	1	1	0	0	4-(2-Phenylpropan-2-yl)-N-[4-(2-phenylpropan-2-yl)phenyl]aniline	10081-67-1
+20140409_Biochanin A_Plate25	1	1	1	1	0	1	1	1	1	0	0	Biochanin A	491-80-5
+20140409_4-Propylphenol_Plate31	0	1	1	0	1	0	1	0	0	1	0	4-Propylphenol	645-56-7
+20140409_PK 11195_Plate10	1	1	1	1	0	0	1	0	0	1	1	PK 11195	85532-75-8
+20140326_4,4'-Sulfonylbis[2-(prop-2-en-1-yl)phenol]_Plate19	1	1	1	1	0	1	1	1	1	0	0	4,4'-Sulfonylbis[2-(prop-2-en-1-yl)phenol]	41481-66-7
+20140402_Cyclopamine_Plate17	1	1	0	0	1	1	1	0	0	0	0	Cyclopamine	4449-51-8
+20140402_FR140423_Plate1	1	0	1	1	1	1	1	1	0	1	1	FR140423	151506-44-4
+20140903_2-Ethoxy-5-(1-propenyl)phenol_Plate14	0	1	1	0	1	1	0	0	0	1	1	2-Ethoxy-5-(1-propenyl)phenol	94-86-0
+20150610_2-Ethoxy-5-(1-propenyl)phenol_Plate34	0	1	1	1	0	0	1	1	0	1	1	2-Ethoxy-5-(1-propenyl)phenol	94-86-0
+20140402_Cycloheximide_Plate31	1	0	1	1	0	1	1	1	1	0	0	Cycloheximide	66-81-9
+20140326_5alpha-Dihydrotestosterone_Plate16	1	1	1	1	1	1	1	1	1	1	0	5alpha-Dihydrotestosterone	521-18-6
+20140409_PharmaGSID48514_Plate8	0	1	0	0	0	0	0	0	0	0	0	PharmaGSID48514	NOCAS_48514
+20140409_PharmaGSID48519_Plate1	0	1	1	1	0	1	1	0	0	1	1	PharmaGSID48519	686756-87-6
+20140402_PharmaGSID48510_Plate28	1	1	1	1	0	1	0	0	0	1	1	PharmaGSID48510	460081-99-6
+20140402_PharmaGSID48507_Plate23	1	0	1	0	1	1	0	0	0	0	0	PharmaGSID48507	NOCAS_48507
+20140903_C.I. Solvent Yellow 56_Plate3	1	1	1	1	1	1	1	1	1	0	1	C.I. Solvent Yellow 56	2481-94-9
+20150610_C.I. Solvent Yellow 56_Plate22	0	0	0	1	0	1	1	1	1	1	1	C.I. Solvent Yellow 56	2481-94-9
+20140903_Mefenpyr-diethyl_Plate2	0	1	1	1	1	1	1	1	1	0	1	Mefenpyr-diethyl	135590-91-9
+20150610_Mefenpyr-diethyl_Plate21	0	0	1	1	0	1	1	0	1	0	0	Mefenpyr-diethyl	135590-91-9
+20140326_Mancozeb_Plate3	0	1	1	1	0	1	1	0	1	0	1	Mancozeb	8018-01-7
+20140903_3,3'-Dimethylbisphenol A_Plate16	0	0	1	1	1	1	1	1	1	1	1	3,3'-Dimethylbisphenol A	79-97-0
+20150610_3,3'-Dimethylbisphenol A_Plate36	1	1	0	1	1	1	1	1	1	0	1	3,3'-Dimethylbisphenol A	79-97-0
+20150610_Niclosamide_Plate2	0	0	1	0	0	1	0	0	0	0	1	Niclosamide	50-65-7
+20130320_2,2-Bis(4-hydroxyphenyl)-1,1,1-trichloroethane_Plate4	1	1	1	1	0	1	1	1	1	1	1	2,2-Bis(4-hydroxyphenyl)-1,1,1-trichloroethane	2971-36-0
+20140903_Benzethonium chloride_Plate14	0	0	1	0	1	1	1	1	1	0	0	Benzethonium chloride	121-54-0
+20150610_Benzethonium chloride_Plate34	0	0	1	1	1	1	1	0	1	1	1	Benzethonium chloride	121-54-0
+20140903_1,4-Bis(butylamino)anthracene-9,10-dione_Plate15	0	1	1	1	1	1	1	1	0	1	0	1,4-Bis(butylamino)anthracene-9,10-dione	17354-14-2
+20150610_1,4-Bis(butylamino)anthracene-9,10-dione_Plate35	1	1	1	1	1	1	1	1	1	0	0	1,4-Bis(butylamino)anthracene-9,10-dione	17354-14-2
+20140903_Fluopicolide_Plate13	0	0	1	0	0	1	1	1	1	0	0	Fluopicolide	239110-15-7
+20150610_Fluopicolide_Plate32	1	1	1	1	1	1	0	1	1	0	0	Fluopicolide	239110-15-7
+20140903_2,3-Diaminopyridine_Plate11	0	1	1	1	1	1	0	0	1	0	0	2,3-Diaminopyridine	452-58-4
+20150610_2,3-Diaminopyridine_Plate30	0	1	1	1	1	0	0	0	0	0	0	2,3-Diaminopyridine	452-58-4
+20150610_Hexahydro-1,3,5-trimethyl-1,3,5-triazine_Plate34	0	0	0	0	0	1	1	0	0	1	1	Hexahydro-1,3,5-trimethyl-1,3,5-triazine	108-74-7
+20140903_3-Methoxyphenol_Plate15	0	1	1	1	1	0	0	0	0	1	1	3-Methoxyphenol	150-19-6
+20150610_3-Methoxyphenol_Plate35	1	1	1	1	0	0	1	0	0	0	0	3-Methoxyphenol	150-19-6
+20140903_Tri-o-cresyl phosphate_Plate21	0	1	1	1	1	1	0	1	0	0	1	Tri-o-cresyl phosphate	78-30-8
+20150610_Tri-o-cresyl phosphate_Plate41	0	1	0	0	1	0	0	0	0	0	0	Tri-o-cresyl phosphate	78-30-8
+20140903_2,3-Dihydroxynaphthalene_Plate16	0	0	1	0	1	1	1	0	0	1	1	2,3-Dihydroxynaphthalene	92-44-4
+20150610_2,3-Dihydroxynaphthalene_Plate36	0	1	0	0	1	1	1	1	1	1	1	2,3-Dihydroxynaphthalene	92-44-4
+20140903_4'-Acetylbiphenyl_Plate3	0	1	1	1	1	1	0	1	1	0	1	4'-Acetylbiphenyl	92-91-1
+20150610_4'-Acetylbiphenyl_Plate22	0	0	1	1	1	1	1	1	1	1	1	4'-Acetylbiphenyl	92-91-1
+20140903_9-Ethylcarbazole_Plate20	0	1	1	1	0	1	1	1	1	1	1	9-Ethylcarbazole	86-28-2
+20150610_9-Ethylcarbazole_Plate39	0	1	1	1	1	1	1	1	1	1	0	9-Ethylcarbazole	86-28-2
+20140903_2-Chloro-5-nitroaniline_Plate19	0	1	1	0	0	0	0	0	1	0	0	2-Chloro-5-nitroaniline	6283-25-6
+20150610_2-Chloro-5-nitroaniline_Plate39	1	1	1	0	0	0	0	1	1	1	0	2-Chloro-5-nitroaniline	6283-25-6
+20140903_Pyrasulfotole metabolite (SXX 0665)_Plate1	1	1	1	1	1	1	1	1	1	1	1	Pyrasulfotole metabolite (SXX 0665)	120983-64-4
+20150610_Pyrasulfotole metabolite (SXX 0665)_Plate20	1	1	1	1	1	1	1	1	1	1	1	Pyrasulfotole metabolite (SXX 0665)	120983-64-4
+20140903_1-Chloroanthraquinone_Plate1	1	1	1	1	1	0	0	1	1	1	1	1-Chloroanthraquinone	82-44-0
+20150610_1-Chloroanthraquinone_Plate20	0	0	1	0	0	1	0	0	0	1	1	1-Chloroanthraquinone	82-44-0
+20140903_Astemizole_Plate19	1	0	1	1	1	1	1	1	1	1	0	Astemizole	68844-77-9
+20150610_Astemizole_Plate38	1	1	1	1	1	1	1	1	1	1	1	Astemizole	68844-77-9
+20140903_Pitavastatin calcium_Plate18	1	1	1	1	1	1	1	1	1	1	0	Pitavastatin calcium	147526-32-7
+20150610_Pitavastatin calcium_Plate37	1	1	1	1	1	1	1	1	1	0	0	Pitavastatin calcium	147526-32-7
+20140903_Cerivastatin sodium_Plate17	1	1	1	1	1	1	1	1	1	1	0	Cerivastatin sodium	143201-11-0
+20150610_Cerivastatin sodium_Plate37	1	1	1	1	1	1	1	1	1	1	0	Cerivastatin sodium	143201-11-0
+20140903_Cyclopentene_Plate8	0	0	0	0	0	0	0	1	0	0	0	Cyclopentene	142-29-0
+20150610_Cyclopentene_Plate27	0	1	0	0	0	0	0	0	0	0	0	Cyclopentene	142-29-0
+20140903_Butyl vinyl ether_Plate7	0	1	0	1	0	0	0	0	1	0	0	Butyl vinyl ether	111-34-2
+20150610_Butyl vinyl ether_Plate27	0	1	0	0	0	0	0	0	0	0	0	Butyl vinyl ether	111-34-2
+20140903_4-(N-Methyl-N-nitrosamino)-1-(3-pyridyl)-1-butanone_Plate15	0	1	1	1	0	1	1	1	1	0	1	4-(N-Methyl-N-nitrosamino)-1-(3-pyridyl)-1-butanone	64091-91-4
+20150610_4-(N-Methyl-N-nitrosamino)-1-(3-pyridyl)-1-butanone_Plate34	0	1	1	1	0	0	1	1	1	1	1	4-(N-Methyl-N-nitrosamino)-1-(3-pyridyl)-1-butanone	64091-91-4
+20140903_Bitertanol_Plate15	0	0	1	1	0	1	1	1	1	0	0	Bitertanol	55179-31-2
+20150610_Bitertanol_Plate35	1	1	1	1	1	1	1	1	1	1	1	Bitertanol	55179-31-2
+20140903_Cresol_Plate20	0	1	1	0	0	0	0	0	1	1	1	Cresol	1319-77-3
+20150610_Cresol_Plate40	1	1	1	1	0	1	0	1	1	1	1	Cresol	1319-77-3
+20140903_Metoprolol_Plate22	1	1	1	1	1	1	1	1	1	0	0	Metoprolol	51384-51-1
+20150610_Metoprolol_Plate41	0	1	1	1	1	1	0	1	1	0	0	Metoprolol	51384-51-1
+20140903_1-Methyl phenanthrene_Plate22	0	0	1	0	1	0	0	1	1	0	1	1-Methyl phenanthrene	832-69-9
+20150610_1-Methyl phenanthrene_Plate42	0	1	1	0	0	0	0	0	0	0	0	1-Methyl phenanthrene	832-69-9
+20140903_Diethoxymethane_Plate12	0	0	0	1	0	0	0	1	1	0	1	Diethoxymethane	462-95-3
+20150610_Diethoxymethane_Plate32	0	0	0	0	0	0	0	0	0	0	0	Diethoxymethane	462-95-3
+20140903_Isoamyl ether_Plate12	0	0	0	1	0	0	0	0	0	0	0	Isoamyl ether	544-01-4
+20150610_Isoamyl ether_Plate31	0	0	1	0	0	1	1	1	1	1	1	Isoamyl ether	544-01-4
+20140903_beta-(3,4-Epoxycyclohexyl)ethyltrimethoxysilane_Plate13	0	0	0	0	0	1	1	0	0	0	0	beta-(3,4-Epoxycyclohexyl)ethyltrimethoxysilane	3388-04-3
+20150610_beta-(3,4-Epoxycyclohexyl)ethyltrimethoxysilane_Plate33	0	0	0	0	0	0	0	0	0	0	0	beta-(3,4-Epoxycyclohexyl)ethyltrimethoxysilane	3388-04-3
+20140903_N,N,3-Trimethylaniline_Plate10	0	1	0	0	0	1	0	0	0	0	0	N,N,3-Trimethylaniline	121-72-2
+20150610_N,N,3-Trimethylaniline_Plate29	0	0	0	1	0	0	0	0	0	1	1	N,N,3-Trimethylaniline	121-72-2
+20140903_2,6-Dimethylpyridine_Plate10	0	1	0	1	0	1	0	0	0	0	0	2,6-Dimethylpyridine	108-48-5
+20150610_2,6-Dimethylpyridine_Plate29	0	0	0	0	0	0	0	0	0	0	0	2,6-Dimethylpyridine	108-48-5
+20140903_N,N-Dimethylacrylamide_Plate9	0	1	0	1	0	1	1	0	1	0	1	N,N-Dimethylacrylamide	2680-03-7
+20140903_N,O-bis(Trimethylsilyl)acetamide_Plate8	1	0	0	0	0	0	0	0	0	0	0	N,O-bis(Trimethylsilyl)acetamide	10416-59-8
+20150610_N,O-bis(Trimethylsilyl)acetamide_Plate27	0	1	0	0	0	0	1	0	1	0	0	N,O-bis(Trimethylsilyl)acetamide	10416-59-8
+20140903_1,2,3-Trimethylbenzene_Plate11	0	0	0	0	0	1	0	0	0	0	0	1,2,3-Trimethylbenzene	526-73-8
+20150610_1,2,3-Trimethylbenzene_Plate31	0	0	1	1	0	1	1	1	1	1	1	1,2,3-Trimethylbenzene	526-73-8
+20140903_2-Methyl-3-buten-2-ol_Plate13	0	0	0	0	0	0	0	0	0	0	0	2-Methyl-3-buten-2-ol	115-18-4
+20150610_2-Methyl-3-buten-2-ol_Plate32	0	0	0	0	0	0	1	0	1	1	0	2-Methyl-3-buten-2-ol	115-18-4
+20140903_Neopentyl glycol diglycidyl ether_Plate8	0	0	0	1	1	0	0	1	0	1	1	Neopentyl glycol diglycidyl ether	17557-23-2
+20150610_Neopentyl glycol diglycidyl ether_Plate27	0	1	0	0	0	0	0	0	0	1	0	Neopentyl glycol diglycidyl ether	17557-23-2
+20140903_Pyrrole_Plate6	0	0	0	0	0	0	0	0	0	0	0	Pyrrole	109-97-7
+20150610_Pyrrole_Plate25	0	1	1	1	0	1	1	0	1	1	0	Pyrrole	109-97-7
+20140903_Methylcyclohexane_Plate14	0	0	0	0	0	0	0	0	0	0	0	Methylcyclohexane	108-87-2
+20150610_Methylcyclohexane_Plate33	0	0	0	0	0	0	0	0	0	0	0	Methylcyclohexane	108-87-2
+20140903_Tyrphostin_Plate17	0	0	0	0	1	0	0	0	0	0	0	Tyrphostin	175178-82-2
+20150610_Tyrphostin_Plate36	0	1	0	1	1	1	1	0	0	1	1	Tyrphostin	175178-82-2
+20140903_4-tert-Butylcatechol_Plate18	0	1	1	1	1	0	1	1	0	1	1	4-tert-Butylcatechol	98-29-3
+20150610_4-tert-Butylcatechol_Plate38	1	1	0	0	1	1	1	1	1	0	0	4-tert-Butylcatechol	98-29-3
+20140903_Vatalanib dihydrochloride_Plate19	1	1	0	1	1	1	1	1	0	1	1	Vatalanib dihydrochloride	212141-51-0
+20150610_Vatalanib dihydrochloride_Plate39	0	1	0	1	1	1	1	1	0	1	1	Vatalanib dihydrochloride	212141-51-0
+20150610_1,3-Propanediol_Plate40	0	1	1	0	0	0	0	1	0	0	0	1,3-Propanediol	504-63-2
+20140903_1,3-Propanediol_Plate20	0	0	0	0	0	0	0	1	0	0	1	1,3-Propanediol	504-63-2
+20140903_2-Amino-6-methoxybenzothiazole_Plate21	0	1	1	1	1	1	1	1	1	1	1	2-Amino-6-methoxybenzothiazole	1747-60-0
+20150610_2-Amino-6-methoxybenzothiazole_Plate41	1	1	1	1	0	0	0	1	0	1	1	2-Amino-6-methoxybenzothiazole	1747-60-0
+20140903_3-Methyl-4-(methylthio)phenol_Plate11	0	1	0	1	1	1	0	1	1	1	1	3-Methyl-4-(methylthio)phenol	3120-74-9
+20150610_3-Methyl-4-(methylthio)phenol_Plate30	1	1	1	1	1	0	0	1	0	1	1	3-Methyl-4-(methylthio)phenol	3120-74-9
+20140903_Disulfoton sulfone_Plate9	0	1	1	1	0	1	1	1	1	0	1	Disulfoton sulfone	2497-06-5
+20150610_Disulfoton sulfone_Plate29	0	1	1	1	1	1	1	1	0	0	0	Disulfoton sulfone	2497-06-5
+20150610_Damascenone_Plate30	0	1	0	1	0	0	0	0	0	0	0	Damascenone	23696-85-7
+20140903_Methiocarb_Plate7	0	1	1	1	1	1	0	1	1	0	1	Methiocarb	2032-65-7
+20150610_Methiocarb_Plate26	1	1	1	1	1	1	0	1	1	1	1	Methiocarb	2032-65-7
+20140903_4-Iodophenol_Plate14	0	1	1	1	0	1	0	0	0	1	1	4-Iodophenol	540-38-5
+20150610_4-Iodophenol_Plate33	0	1	1	1	0	1	0	0	0	1	1	4-Iodophenol	540-38-5
+20140903_4-(Diethylamino)benzaldehyde_Plate7	1	1	1	1	1	1	0	1	1	1	1	4-(Diethylamino)benzaldehyde	120-21-8
+20150610_4-(Diethylamino)benzaldehyde_Plate26	0	0	1	1	1	0	0	0	0	0	0	4-(Diethylamino)benzaldehyde	120-21-8
+20140903_1,3-Bis(4-aminophenoxy)benzene_Plate9	0	1	1	1	1	1	1	1	0	0	1	1,3-Bis(4-aminophenoxy)benzene	2479-46-1
+20140903_4-Pentylphenol_Plate12	0	0	0	1	1	1	1	1	1	1	1	4-Pentylphenol	14938-35-3
+20150610_4-Pentylphenol_Plate31	1	1	1	1	1	1	1	1	1	1	0	4-Pentylphenol	14938-35-3
+20140903_O,O-Dimethyl phosphoramidothioate_Plate10	0	0	0	0	0	1	0	0	0	0	0	O,O-Dimethyl phosphoramidothioate	17321-47-0
+20150610_O,O-Dimethyl phosphoramidothioate_Plate29	0	0	0	1	1	0	0	0	0	1	1	O,O-Dimethyl phosphoramidothioate	17321-47-0
+20140903_5-Methyl-1H-benzotriazole_Plate11	0	0	1	1	0	1	1	1	1	0	1	5-Methyl-1H-benzotriazole	136-85-6
+20150610_5-Methyl-1H-benzotriazole_Plate31	0	0	0	1	0	1	0	1	0	0	1	5-Methyl-1H-benzotriazole	136-85-6
+20140903_1-Hexanethiol_Plate13	0	0	0	0	0	1	1	0	1	0	0	1-Hexanethiol	111-31-9
+20150610_1-Hexanethiol_Plate33	0	0	0	0	0	0	0	0	0	0	1	1-Hexanethiol	111-31-9
+20140903_1,2,4-Butanetriol_Plate12	0	0	0	1	0	0	0	0	1	0	0	1,2,4-Butanetriol	3068-00-6
+20150610_1,2,4-Butanetriol_Plate32	0	0	0	0	0	0	0	0	0	1	0	1,2,4-Butanetriol	3068-00-6
+20140903_Androsterone_Plate10	1	1	1	1	1	1	1	1	0	1	1	Androsterone	53-41-8
+20150610_Androsterone_Plate30	1	1	1	1	1	0	0	1	1	1	1	Androsterone	53-41-8
+20140903_2-Chloro-4-nitroaniline_Plate6	0	0	1	1	0	1	0	0	0	0	0	2-Chloro-4-nitroaniline	121-87-9
+20150610_2-Chloro-4-nitroaniline_Plate26	1	1	0	0	1	0	0	0	0	0	0	2-Chloro-4-nitroaniline	121-87-9
+20140903_4-Chlorobenzophenone_Plate8	0	0	1	0	0	1	0	1	1	1	1	4-Chlorobenzophenone	134-85-0
+20140903_Indan-5-ol_Plate4	0	0	0	1	1	0	0	1	1	1	1	Indan-5-ol	1470-94-6
+20150610_Indan-5-ol_Plate24	0	1	1	1	1	0	0	1	0	1	1	Indan-5-ol	1470-94-6
+20140903_C.I. Disperse Yellow 3_Plate1	1	1	1	0	1	1	0	1	1	1	1	C.I. Disperse Yellow 3	2832-40-8
+20150610_C.I. Disperse Yellow 3_Plate21	1	1	1	0	1	1	0	1	1	1	1	C.I. Disperse Yellow 3	2832-40-8
+20140903_4-Fluoro-3-nitroaniline_Plate2	1	1	1	1	1	0	1	0	1	1	1	4-Fluoro-3-nitroaniline	364-76-1
+20150610_4-Fluoro-3-nitroaniline_Plate21	0	1	1	0	0	0	0	0	1	0	0	4-Fluoro-3-nitroaniline	364-76-1
+20140903_3-Hydroxy-2-pyridone_Plate4	1	1	1	1	1	1	1	1	1	0	1	3-Hydroxy-2-pyridone	16867-04-2
+20150610_3-Hydroxy-2-pyridone_Plate23	1	1	1	1	0	1	0	1	0	1	1	3-Hydroxy-2-pyridone	16867-04-2
+20140903_4,4'-(Isopropylidenebis(4,1-phenyleneoxy))dianiline_Plate5	0	1	1	1	1	1	1	1	1	1	1	4,4'-(Isopropylidenebis(4,1-phenyleneoxy))dianiline	13080-86-9
+20150610_4,4'-(Isopropylidenebis(4,1-phenyleneoxy))dianiline_Plate24	1	1	1	1	1	1	1	1	1	1	1	4,4'-(Isopropylidenebis(4,1-phenyleneoxy))dianiline	13080-86-9
+20140903_Indole-3-carbinol_Plate17	0	0	0	0	0	0	0	0	0	0	0	Indole-3-carbinol	700-06-1
+20150610_Indole-3-carbinol_Plate37	1	1	1	1	1	1	1	0	0	0	0	Indole-3-carbinol	700-06-1
+20140903_(+/-)-cis-Permethrin_Plate18	1	1	1	1	1	1	1	1	1	0	0	(+/-)-cis-Permethrin	61949-76-6
+20150610_(+/-)-cis-Permethrin_Plate38	1	1	0	0	1	0	1	0	0	0	0	(+/-)-cis-Permethrin	61949-76-6
+20140903_o,p'-DDE_Plate5	0	0	1	0	0	1	1	1	1	0	0	o,p'-DDE	3424-82-6
+20150610_o,p'-DDE_Plate25	1	1	1	0	1	1	1	1	1	1	1	o,p'-DDE	3424-82-6
+20150610_Tralopyril_Plate35	0	1	1	0	1	1	1	1	0	1	1	Tralopyril	122454-29-9
+20140903_Tralopyril_Plate16	0	0	1	0	0	0	1	1	1	0	0	Tralopyril	122454-29-9
+20140903_3-Phenylphenol_Plate16	0	1	1	1	0	1	0	1	0	1	1	3-Phenylphenol	580-51-8
+20150610_3-Phenylphenol_Plate36	0	1	1	1	0	1	0	1	0	1	1	3-Phenylphenol	580-51-8
+20170411_Dicyclohexyl phthalate_Plate10	1	0	1	1	1	1	1	1	1	0	1	Dicyclohexyl phthalate	84-61-7
+20170411_Haloxyfop-methyl_Plate10	1	1	1	1	1	1	1	1	1	1	1	Haloxyfop-methyl	69806-40-2
+20170411_Fluorene_Plate10	0	0	1	0	0	1	0	1	1	0	0	Fluorene	86-73-7
+20170411_p-Bromodiphenyl ether_Plate10	0	0	1	0	1	0	0	0	0	1	0	p-Bromodiphenyl ether	101-55-3
+20170411_Methyleugenol_Plate11	0	1	1	0	1	1	1	1	1	1	1	Methyleugenol	93-15-2
+20170411_2-Ethyl-2-hexenal_Plate11	1	1	1	1	1	0	0	0	0	0	0	2-Ethyl-2-hexenal	645-62-5
+20170411_Ethyl anthranilate_Plate11	0	0	1	1	0	0	0	0	0	0	0	Ethyl anthranilate	87-25-2
+20170411_Dihexyl phthalate_Plate11	1	0	1	0	0	0	0	1	1	0	0	Dihexyl phthalate	84-75-3
+20170411_Dimethyl hexahydroterephthalate_Plate12	0	1	1	0	0	0	0	1	1	1	1	Dimethyl hexahydroterephthalate	94-60-0
+20170411_3,3,5-Trimethylcyclohexyl salicylate_Plate12	1	0	1	0	1	1	0	1	1	1	1	3,3,5-Trimethylcyclohexyl salicylate	118-56-9
+20170411_Sodium 2-mercaptobenzothiolate_Plate12	1	1	1	0	0	1	1	1	1	0	0	Sodium 2-mercaptobenzothiolate	2492-26-4
+20170411_MEHP_Plate12	1	1	1	1	0	1	0	1	1	1	0	MEHP	4376-20-9
+20170411_Bis(2-ethylhexyl) terephthalate_Plate13	0	0	0	0	0	1	0	0	0	1	0	Bis(2-ethylhexyl) terephthalate	6422-86-2
+20170411_Octabenzone_Plate13	1	1	1	1	0	1	1	1	1	1	1	Octabenzone	1843-05-6
+20170411_Dimethyl isophthalate_Plate13	0	0	1	0	1	0	0	0	0	1	1	Dimethyl isophthalate	1459-93-4
+20170411_(2Z)-3,7-Dimethylocta-2,6-dien-1-ol_Plate13	0	0	1	1	1	1	1	1	0	0	0	(2Z)-3,7-Dimethylocta-2,6-dien-1-ol	106-25-2
+20170411_PFDA_Plate14	0	1	0	0	0	1	0	0	0	0	0	PFDA	335-76-2
+20170411_Dipentyl phthalate_Plate14	0	0	1	1	0	0	0	0	1	0	0	Dipentyl phthalate	131-18-0
+20170411_Methyl dihydrojasmonate_Plate14	0	0	0	0	0	0	0	0	0	1	1	Methyl dihydrojasmonate	24851-98-7
+20170411_DINP branched_Plate14	0	1	1	0	1	0	0	0	0	0	0	DINP branched	68515-48-0
+20170411_Etofenprox_Plate15	1	1	1	1	1	1	0	1	1	0	0	Etofenprox	80844-07-1
+20170411_Thiazopyr_Plate15	0	1	1	1	1	1	1	0	0	0	0	Thiazopyr	117718-60-2
+20170411_Fenarimol_Plate15	1	1	1	1	1	1	1	1	1	1	1	Fenarimol	60168-88-9
+20170411_Fadrozole hydrochloride_Plate15	0	1	1	1	1	1	1	1	1	1	1	Fadrozole hydrochloride	102676-31-3
+20170411_1,3,5,7-Tetramethyl-1,3,5,7-tetravinylcyclotetrasiloxane_Plate16	1	0	1	1	0	1	0	0	0	1	1	1,3,5,7-Tetramethyl-1,3,5,7-tetravinylcyclotetrasiloxane	2554-06-5
+20170411_Diphenyl isophthalate_Plate16	1	1	0	1	1	1	1	0	0	1	1	Diphenyl isophthalate	744-45-6
+20170411_Thidiazuron_Plate16	1	1	1	1	1	1	1	1	1	0	0	Thidiazuron	51707-55-2
+20170411_Rimsulfuron_Plate16	0	1	0	1	0	0	0	1	1	0	0	Rimsulfuron	122931-48-0
+20170411_Diisopropyl phthalate_Plate17	1	0	1	0	0	1	0	1	1	1	1	Diisopropyl phthalate	605-45-8
+20170411_4-Pentylaniline_Plate17	0	1	1	1	1	1	0	1	1	1	0	4-Pentylaniline	33228-44-3
+20170411_Monobutyl phthalate_Plate17	0	0	1	0	0	0	0	0	0	0	0	Monobutyl phthalate	131-70-4
+20170411_Monomethyl phthalate_Plate17	0	0	0	0	0	0	0	1	1	0	0	Monomethyl phthalate	4376-18-5
+20170411_Isopropyl-o-cresol_Plate18	0	1	1	1	0	0	0	1	0	1	1	Isopropyl-o-cresol	499-75-2
+20170411_4-Chloro-2-methylaniline_Plate18	0	1	1	0	0	0	1	0	1	0	1	4-Chloro-2-methylaniline	95-69-2
+20170411_5,7-Dimethoxy-2H-chromen-2-one_Plate18	1	0	1	1	0	0	1	0	1	1	1	5,7-Dimethoxy-2H-chromen-2-one	487-06-9
+20170411_Diheptyl phthalate_Plate18	1	0	1	0	0	1	0	1	1	0	0	Diheptyl phthalate	3648-21-3
+20170411_Monobenzyl phthalate_Plate19	0	0	1	0	0	1	0	0	0	0	0	Monobenzyl phthalate	2528-16-7
+20170411_2,4-Diisopropylphenol_Plate19	0	0	1	1	1	0	1	0	1	1	1	2,4-Diisopropylphenol	2934-05-6
+20170411_Monopotassium phthalate_Plate19	0	0	1	0	0	0	0	0	0	0	0	Monopotassium phthalate	877-24-7
+20170411_Diphenylmercury(II)_Plate19	1	1	1	1	0	1	0	1	1	0	0	Diphenylmercury(II)	587-85-9
+20170411_1,3-Diphenylguanidine_Plate1	1	0	1	1	1	1	1	1	0	0	0	1,3-Diphenylguanidine	102-06-7
+20170411_Anthracene_Plate1	0	1	1	1	0	0	0	1	1	1	1	Anthracene	120-12-7
+20170411_Zearalenone_Plate1	1	1	1	1	1	1	1	1	1	0	0	Zearalenone	17924-92-4
+20170411_Cytembena_Plate1	1	1	1	1	1	1	1	1	0	0	1	Cytembena	21739-91-3
+20170411_Pentane-1,5-diyl dibenzoate_Plate20	0	1	1	0	1	1	0	1	1	1	0	Pentane-1,5-diyl dibenzoate	6624-73-3
+20170411_1-Benzylquinolinium chloride_Plate20	1	1	1	0	1	1	1	1	1	0	0	1-Benzylquinolinium chloride	15619-48-4
+20170411_Antioxidant 1098_Plate20	1	1	1	1	1	1	0	0	1	0	1	Antioxidant 1098	23128-74-7
+20170411_4-Prop-1-enylveratrole_Plate21	1	0	1	1	1	0	1	1	1	1	1	4-Prop-1-enylveratrole	93-16-3
+20170411_2,6-Dibromo-4-nitroaniline_Plate21	1	1	1	1	0	1	0	1	1	0	0	2,6-Dibromo-4-nitroaniline	827-94-1
+20170411_Triphenylstibine_Plate21	0	1	1	1	0	1	1	1	1	0	0	Triphenylstibine	603-36-1
+20170411_(E)-beta-Damascone_Plate21	1	1	1	1	0	1	0	1	1	0	0	(E)-beta-Damascone	23726-91-2
+20170411_Tetrakis(hydroxymethyl)phosphonium sulfate_Plate22	1	0	0	0	0	0	0	1	0	0	0	Tetrakis(hydroxymethyl)phosphonium sulfate	55566-30-8
+20170411_PharmaGSID48516_Plate2	1	1	1	1	0	1	0	1	1	1	1	PharmaGSID48516	NOCAS_48516
+20170411_SAR102608_Plate2	1	1	1	1	1	1	1	1	1	1	1	SAR102608	1068967-96-3
+20170411_PD-0333941_Plate2	1	1	0	1	1	1	0	1	1	1	1	PD-0333941	501027-49-2
+20170411_CP-612372_Plate2	1	1	1	1	1	1	1	1	1	1	1	CP-612372	353280-07-6
+20170411_Pentachlorophenol_Plate3	1	1	0	0	0	0	0	0	0	1	1	Pentachlorophenol	87-86-5
+20170411_C.I. Solvent Red 80_Plate3	0	1	1	0	0	1	0	0	0	1	1	C.I. Solvent Red 80	6358-53-8
+20170411_Ethylene dimethanesulfonate_Plate3	0	0	1	0	0	1	0	1	1	1	1	Ethylene dimethanesulfonate	4672-49-5
+20170411_Metyrapone_Plate3	1	1	1	1	1	1	1	1	1	1	1	Metyrapone	54-36-4
+20170411_Benzyl butyl phthalate_Plate4	0	0	1	0	0	0	0	0	0	1	1	Benzyl butyl phthalate	85-68-7
+20170411_5-Chloro-2-methyl-3(2H)-isothiazolone_Plate4	0	1	1	0	0	0	0	0	1	0	0	5-Chloro-2-methyl-3(2H)-isothiazolone	26172-55-4
+20170411_PD 0343701_Plate4	0	1	1	1	1	1	1	1	1	1	1	PD 0343701	676116-04-4
+20170411_Letrozole_Plate4	1	0	1	0	1	0	1	1	0	1	1	Letrozole	112809-51-5
+20170411_Octyl decyl phthalate_Plate5	0	0	0	0	0	0	0	0	0	1	0	Octyl decyl phthalate	119-07-3
+20170411_Phorate sulfone_Plate5	1	0	1	1	1	1	1	1	1	0	0	Phorate sulfone	2588-04-7
+20170411_C.I. Direct Red 81 disodium salt_Plate5	1	1	1	1	0	1	1	1	1	1	0	C.I. Direct Red 81 disodium salt	2610-11-9
+20170411_Dimethyl terephthalate_Plate5	0	0	0	0	0	0	0	0	0	0	0	Dimethyl terephthalate	120-61-6
+20170411_Hexachloro-1,3-butadiene_Plate6	0	1	0	0	0	0	0	1	0	0	0	Hexachloro-1,3-butadiene	87-68-3
+20170411_Di(2-ethylhexyl) phthalate_Plate6	1	1	1	1	1	1	1	0	0	1	1	Di(2-ethylhexyl) phthalate	117-81-7
+20170411_Diethylstilbestrol_Plate6	1	0	1	0	1	0	1	0	0	1	1	Diethylstilbestrol	56-53-1
+20170411_Diallyl phthalate_Plate6	0	0	1	0	0	0	0	0	0	1	0	Diallyl phthalate	131-17-9
+20170411_FD&C Yellow 6_Plate7	0	1	1	0	0	0	0	0	0	0	0	FD&C Yellow 6	2783-94-0
+20170411_Safrole_Plate7	0	0	0	1	0	0	0	0	0	0	0	Safrole	94-59-7
+20170411_Retinol acetate_Plate7	0	1	1	1	0	0	1	0	1	0	0	Retinol acetate	127-47-9
+20170411_Phenylbutazone_Plate7	0	1	1	0	0	0	0	0	0	0	0	Phenylbutazone	50-33-9
+20170411_Dioctyl phthalate_Plate8	1	0	0	1	0	1	0	0	0	1	0	Dioctyl phthalate	117-84-0
+20170411_Dibutyl phthalate_Plate8	1	0	0	0	0	1	1	0	0	1	1	Dibutyl phthalate	84-74-2
+20170411_Diethyl phthalate_Plate8	0	0	0	1	0	1	0	0	0	0	1	Diethyl phthalate	84-66-2
+20170411_Dimethyl terephthalate_Plate8	1	0	1	0	0	0	0	0	0	0	0	Dimethyl terephthalate	120-61-6
+20170411_6-Thioguanine_Plate9	0	0	0	0	0	0	0	0	0	0	0	6-Thioguanine	154-42-7
+20170411_Aminoglutethimide_Plate9	0	1	1	1	0	1	0	1	1	0	0	Aminoglutethimide	125-84-8
+20170411_Diisobutyl phthalate_Plate9	0	1	1	1	1	1	0	1	1	1	1	Diisobutyl phthalate	84-69-5
+20170411_Dimethyl phthalate_Plate9	0	0	1	0	1	1	0	0	1	1	1	Dimethyl phthalate	131-11-3
